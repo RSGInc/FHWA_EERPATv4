@@ -1,0 +1,16 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+PkgCost,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+PkgCost,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PkgCost,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0

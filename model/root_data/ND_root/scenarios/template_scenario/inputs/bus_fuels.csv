@@ -1,0 +1,13 @@
+Area,Fuel,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+Bismarck,DieselPropBio,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bismarck,GasPropEth,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bismarck,PropCng,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bismarck,PropGas,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fargo,DieselPropBio,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fargo,GasPropEth,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fargo,PropCng,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fargo,PropGas,0,0,0,0,0,0,0,0,0,0,0,0,0
+GrandForks,DieselPropBio,0,0,0,0,0,0,0,0,0,0,0,0,0
+GrandForks,GasPropEth,0,0,0,0,0,0,0,0,0,0,0,0,0
+GrandForks,PropCng,0,0,0,0,0,0,0,0,0,0,0,0,0
+GrandForks,PropGas,0,0,0,0,0,0,0,0,0,0,0,0,0

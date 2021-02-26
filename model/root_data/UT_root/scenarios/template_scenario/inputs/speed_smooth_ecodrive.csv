@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+ArtSmooth,Logan,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Logan,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Logan,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Logan,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,SaltLakeCityWestValleyCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,SaltLakeCityWestValleyCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,SaltLakeCityWestValleyCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,SaltLakeCityWestValleyCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,StGeorge,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,StGeorge,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,StGeorge,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,StGeorge,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,16 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+PkgCost,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PkgCost,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+PkgCost,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+ArtSmooth,Bismarck,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Bismarck,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Bismarck,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Bismarck,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,Fargo,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Fargo,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Fargo,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Fargo,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,GrandForks,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,GrandForks,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,GrandForks,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,GrandForks,0,0,0,0,0,0,0,0,0,0,0,0,0

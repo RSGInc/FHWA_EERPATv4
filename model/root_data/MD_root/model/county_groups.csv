@@ -1,0 +1,25 @@
+County,Region,Msa,VmtAdjustment
+AlleganyCounty,West,Cumberland,1.326467114
+AnneArundelCounty,Baltimore Metro,BaltimoreColumbiaTowson,1.141308084
+Baltimorecity,Baltimore City,BaltimoreColumbiaTowson,1.213964697
+BaltimoreCounty,Baltimore Metro,BaltimoreColumbiaTowson,1.115947232
+CalvertCounty,South,WashingtonArlingtonAlexandria,0.948138007
+CarolineCounty,Upper East,NA,1.020453919
+CarrollCounty,Baltimore Metro,BaltimoreColumbiaTowson,0.800407648
+CecilCounty,Upper East,PhiladelphiaCamdenWilmington,1.401338189
+CharlesCounty,South,WashingtonArlingtonAlexandria,0.921816048
+DorchesterCounty,Lower East,NA,1.187686728
+FrederickCounty,Washington Metro,WashingtonArlingtonAlexandria,1.268495578
+GarrettCounty,West,NA,1.672307993
+HarfordCounty,Baltimore Metro,BaltimoreColumbiaTowson,0.998625744
+HowardCounty,Baltimore Metro,BaltimoreColumbiaTowson,1.47591852
+KentCounty,Upper East,NA,0.998720822
+MontgomeryCounty,Washington Metro,WashingtonArlingtonAlexandria,0.817709252
+PrinceGeorgesCounty,Washington Metro,WashingtonArlingtonAlexandria,1.082109046
+QueenAnnesCounty,Upper East,BaltimoreColumbiaTowson,2.072407976
+SomersetCounty,Lower East,Salisbury,1.593220398
+StMarysCounty,South,CaliforniaLexington,0.87054245
+TalbotCounty,Upper East,NA,1.492757351
+WashingtonCounty,West,Hagerstown,1.540675774
+WicomicoCounty,Lower East,Salisbury,1.200653343
+WorcesterCounty,Lower East,NA,1.248093323

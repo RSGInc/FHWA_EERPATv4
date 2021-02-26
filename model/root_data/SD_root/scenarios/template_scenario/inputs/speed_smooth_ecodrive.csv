@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+ArtSmooth,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0

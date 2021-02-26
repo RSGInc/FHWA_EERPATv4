@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+ArtSmooth,NewYorkNewark,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,NewYorkNewark,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,NewYorkNewark,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,NewYorkNewark,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,NorwichNewLondon,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,NorwichNewLondon,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,NorwichNewLondon,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,NorwichNewLondon,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,Worcester,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Worcester,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Worcester,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Worcester,0,0,0,0,0,0,0,0,0,0,0,0,0

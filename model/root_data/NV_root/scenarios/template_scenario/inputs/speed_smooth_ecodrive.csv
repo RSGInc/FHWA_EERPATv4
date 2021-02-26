@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+ArtSmooth,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,CarsonCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,LasVegasHenderson,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Reno,0,0,0,0,0,0,0,0,0,0,0,0,0

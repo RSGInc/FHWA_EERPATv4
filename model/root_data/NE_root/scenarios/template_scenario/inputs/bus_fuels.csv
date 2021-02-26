@@ -1,0 +1,13 @@
+Area,Fuel,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+Lincoln,DieselPropBio,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lincoln,GasPropEth,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lincoln,PropCng,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lincoln,PropGas,0,0,0,0,0,0,0,0,0,0,0,0,0
+Omaha,DieselPropBio,0,0,0,0,0,0,0,0,0,0,0,0,0
+Omaha,GasPropEth,0,0,0,0,0,0,0,0,0,0,0,0,0
+Omaha,PropCng,0,0,0,0,0,0,0,0,0,0,0,0,0
+Omaha,PropGas,0,0,0,0,0,0,0,0,0,0,0,0,0
+SiouxCity,DieselPropBio,0,0,0,0,0,0,0,0,0,0,0,0,0
+SiouxCity,GasPropEth,0,0,0,0,0,0,0,0,0,0,0,0,0
+SiouxCity,PropCng,0,0,0,0,0,0,0,0,0,0,0,0,0
+SiouxCity,PropGas,0,0,0,0,0,0,0,0,0,0,0,0,0

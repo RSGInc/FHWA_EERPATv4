@@ -1,0 +1,16 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+PkgCost,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PkgCost,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+PkgCost,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0

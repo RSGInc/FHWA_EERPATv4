@@ -1,0 +1,17 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+ArtSmooth,FortSmith,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,FortSmith,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,FortSmith,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,FortSmith,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,Lawton,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Lawton,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Lawton,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Lawton,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,OklahomaCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,OklahomaCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,OklahomaCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,OklahomaCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,Tulsa,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Tulsa,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Tulsa,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Tulsa,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,1176 @@
+NAICS6_IO,SCTG,naics,naics_desc,NAICS6_Make_desc,SCTG_desc,Prop
+1111A0,3,111110,Soybean Farming,Oilseed farming,Other ag prods.,1
+1111A0,3,111120,Oilseed (except Soybean) Farming,Oilseed farming,Other ag prods.,1
+1111B0,2,111130,Dry Pea and Bean Farming,Grain farming,Cereal grains,1
+1111B0,2,111140,Wheat Farming,Grain farming,Cereal grains,1
+1111B0,2,111150,Corn Farming,Grain farming,Cereal grains,1
+1111B0,2,111160,Rice Farming,Grain farming,Cereal grains,1
+1111B0,2,111191,Oilseed and Grain Combination Farming,Grain farming,Cereal grains,1
+1111B0,2,111199,All Other Grain Farming,Grain farming,Cereal grains,1
+111200,3,111211,Potato Farming,Vegetable and melon farming,Other ag prods.,1
+111200,3,111219,Other Vegetable (except Potato) and Melon Farming,Vegetable and melon farming,Other ag prods.,1
+111300,3,111310,Orange Groves,Fruit and tree nut farming,Other ag prods.,1
+111300,3,111320,Citrus (except Orange) Groves,Fruit and tree nut farming,Other ag prods.,1
+111300,3,111331,Apple Orchards,Fruit and tree nut farming,Other ag prods.,1
+111300,3,111332,Grape Vineyards,Fruit and tree nut farming,Other ag prods.,1
+111300,3,111333,Strawberry Farming,Fruit and tree nut farming,Other ag prods.,1
+111300,3,111334,Berry (except Strawberry) Farming,Fruit and tree nut farming,Other ag prods.,1
+111300,3,111335,Tree Nut Farming,Fruit and tree nut farming,Other ag prods.,1
+111300,3,111336,Fruit and Tree Nut Combination Farming,Fruit and tree nut farming,Other ag prods.,1
+111300,3,111339,Other Noncitrus Fruit Farming,Fruit and tree nut farming,Other ag prods.,1
+111400,3,111411,Mushroom Production,"Greenhouse, nursery, and floriculture production",Other ag prods.,1
+111400,3,111419,Other Food Crops Grown Under Cover,"Greenhouse, nursery, and floriculture production",Other ag prods.,1
+111400,3,111421,Nursery and Tree Production,"Greenhouse, nursery, and floriculture production",Other ag prods.,1
+111400,3,111422,Floriculture Production,"Greenhouse, nursery, and floriculture production",Other ag prods.,1
+111900,3,111910,Tobacco Farming,Other crop farming,Other ag prods.,1
+111900,3,111920,Cotton Farming,Other crop farming,Other ag prods.,1
+111900,3,111930,Sugarcane Farming,Other crop farming,Other ag prods.,1
+111900,3,111940,Hay Farming,Other crop farming,Other ag prods.,1
+111900,3,111991,Sugar Beet Farming,Other crop farming,Other ag prods.,1
+111900,3,111992,Peanut Farming,Other crop farming,Other ag prods.,1
+111900,3,111998,All Other Miscellaneous Crop Farming,Other crop farming,Other ag prods.,1
+1121A0,1,112111,Beef Cattle Ranching and Farming,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",Live animals/fish,1
+1121A0,1,112112,Cattle Feedlots,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",Live animals/fish,1
+112120,1,112120,Dairy Cattle and Milk Production,Dairy cattle and milk production,Live animals/fish,1
+1121A0,1,112130,Dual-Purpose Cattle Ranching and Farming,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",Live animals/fish,1
+112A00,1,112210,Hog and Pig Farming,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112300,1,112310,Chicken Egg Production,Poultry and egg production,Live animals/fish,1
+112300,1,112320,Broilers and Other Meat Type Chicken Production,Poultry and egg production,Live animals/fish,1
+112300,1,112330,Turkey Production,Poultry and egg production,Live animals/fish,1
+112300,1,112340,Poultry Hatcheries,Poultry and egg production,Live animals/fish,1
+112300,1,112390,Other Poultry Production,Poultry and egg production,Live animals/fish,1
+112A00,1,112410,Sheep Farming,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112A00,1,112420,Goat Farming,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112A00,1,112511,Finfish Farming and Fish Hatcheries,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112A00,1,112512,Shellfish Farming,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112A00,1,112519,Other Aquaculture,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112A00,1,112910,Apiculture,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112A00,1,112920,Horses and Other Equine Production,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112A00,1,112930,Fur-Bearing Animal and Rabbit Production,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+112A00,1,112990,All Other Animal Production,"Animal production, except cattle and poultry and eggs",Live animals/fish,1
+113000,25,113110,Timber Tract Operations,Forestry and logging,Logs,1
+113000,25,113210,Forest Nurseries and Gathering of Forest Products,Forestry and logging,Logs,1
+113000,25,113310,Logging,Forestry and logging,Logs,1
+114000,5,114111,Finfish Fishing,"Fishing, hunting and trapping",Meat/seafood,1
+114000,5,114112,Shellfish Fishing,"Fishing, hunting and trapping",Meat/seafood,1
+114000,5,114119,Other Marine Fishing,"Fishing, hunting and trapping",Meat/seafood,1
+114000,5,114210,Hunting and Trapping,"Fishing, hunting and trapping",Meat/seafood,1
+115000,0,115111,Cotton Ginning,Support activities for agriculture and forestry,NA,0
+115000,0,115112,"Soil Preparation, Planting, and Cultivating",Support activities for agriculture and forestry,NA,0
+115000,0,115113,"Crop Harvesting, Primarily by Machine",Support activities for agriculture and forestry,NA,0
+115000,0,115114,Postharvest Crop Activities (except Cotton Ginning),Support activities for agriculture and forestry,NA,0
+115000,0,115115,Farm Labor Contractors and Crew Leaders,Support activities for agriculture and forestry,NA,0
+115000,0,115116,Farm Management Services,Support activities for agriculture and forestry,NA,0
+115000,0,115210,Support Activities for Animal Production,Support activities for agriculture and forestry,NA,0
+115000,0,115310,Support Activities for Forestry,Support activities for agriculture and forestry,NA,0
+211000,16,211111,Crude Petroleum and Natural Gas Extraction,Oil and gas extraction,Crude petroleum,0.5
+211000,20,211112,Natural Gas Liquid Extraction,Oil and gas extraction,Basic chemicals,0.5
+212100,15,212111,Bituminous Coal and Lignite Surface Mining,Coal mining,Coal,1
+212100,15,212112,Bituminous Coal Underground Mining,Coal mining,Coal,1
+212100,15,212113,Anthracite Mining,Coal mining,Coal,1
+2122A0,14,212210,Iron Ore Mining,"Iron, gold, silver, and other metal ore mining",Metallic ores,1
+2122A0,14,212221,Gold Ore Mining,"Iron, gold, silver, and other metal ore mining",Metallic ores,1
+2122A0,14,212222,Silver Ore Mining,"Iron, gold, silver, and other metal ore mining",Metallic ores,1
+212230,14,212231,Lead Ore and Zinc Ore Mining,"Copper, nickel, lead, and zinc mining",Metallic ores,1
+212230,14,212234,Copper Ore and Nickel Ore Mining,"Copper, nickel, lead, and zinc mining",Metallic ores,1
+2122A0,14,212291,Uranium-Radium-Vanadium Ore Mining,"Iron, gold, silver, and other metal ore mining",Metallic ores,1
+2122A0,14,212299,All Other Metal Ore Mining,"Iron, gold, silver, and other metal ore mining",Metallic ores,1
+212310,10,212311,Dimension Stone Mining and Quarrying,Stone mining and quarrying,Building stone,0.5
+212310,12,212312,Crushed and Broken Limestone Mining and Quarrying,Stone mining and quarrying,Gravel,0.5
+212310,12,212313,Crushed and Broken Granite Mining and Quarrying,Stone mining and quarrying,Gravel,0.5
+212310,12,212319,Other Crushed and Broken Stone Mining and Quarrying,Stone mining and quarrying,Gravel,0.5
+2123A0,12,212321,Construction Sand and Gravel Mining,Other nonmetallic mineral mining and quarrying,Gravel,0.25
+2123A0,11,212322,Industrial Sand Mining,Other nonmetallic mineral mining and quarrying,Natural sands,0.25
+2123A0,13,212324,Kaolin and Ball Clay Mining,Other nonmetallic mineral mining and quarrying,Nonmetallic minerals,0.25
+2123A0,13,212325,Clay and Ceramic and Refractory Minerals Mining,Other nonmetallic mineral mining and quarrying,Nonmetallic minerals,0.25
+2123A0,22,212391,"Potash, Soda, and Borate Mineral Mining",Other nonmetallic mineral mining and quarrying,Fertilizers,0.25
+2123A0,13,212392,Phosphate Rock Mining,Other nonmetallic mineral mining and quarrying,Nonmetallic minerals,0.25
+2123A0,13,212393,Other Chemical and Fertilizer Mineral Mining,Other nonmetallic mineral mining and quarrying,Nonmetallic minerals,0.25
+2123A0,12,212399,All Other Nonmetallic Mineral Mining,Other nonmetallic mineral mining and quarrying,Gravel,0.25
+213111,0,213111,Drilling Oil and Gas Wells,Drilling oil and gas wells,NA,0
+21311A,0,213112,Support Activities for Oil and Gas Operations,Other support activities for mining,NA,0
+21311A,0,213113,Support Activities for Coal Mining,Other support activities for mining,NA,0
+21311A,0,213114,Support Activities for Metal Mining,Other support activities for mining,NA,0
+21311A,0,213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining,Other support activities for mining,NA,0
+221100,0,221111,Hydroelectric Power Generation,"Electric power generation, transmission, and distribution",NA,0
+221100,0,221112,Fossil Fuel Electric Power Generation,"Electric power generation, transmission, and distribution",NA,0
+221100,0,221113,Nuclear Electric Power Generation,"Electric power generation, transmission, and distribution",NA,0
+221100,0,221119,Other Electric Power Generation - solar electric power generation,"Electric power generation, transmission, and distribution",NA,0
+221100,0,221121,Electric Bulk Power Transmission and Control,"Electric power generation, transmission, and distribution",NA,0
+221100,0,221122,Electric Power Distribution,"Electric power generation, transmission, and distribution",NA,0
+221200,0,221210,Natural Gas Distribution,Natural gas distribution,NA,0
+221300,0,221310,Water Supply and Irrigation Systems,"Water, sewage and other systems",NA,0
+221300,0,221320,Sewage Treatment Facilities,"Water, sewage and other systems",NA,0
+221300,0,221330,Steam and Air-Conditioning Supply,"Water, sewage and other systems",NA,0
+230301,0,236115,New Single-Family Housing Construction (except Operative Builders),Nonresidential maintenance and repair,NA,0
+230301,0,236116,New Multifamily Housing Construction (except Operative Builders),Nonresidential maintenance and repair,NA,0
+230301,0,236117,New Housing Operative Builders,Nonresidential maintenance and repair,NA,0
+230301,0,236118,Residential Remodelers,Nonresidential maintenance and repair,NA,0
+230301,0,236210,Industrial Building Construction,Nonresidential maintenance and repair,NA,0
+230301,0,236220,Commercial and Institutional Building Construction,Nonresidential maintenance and repair,NA,0
+230301,0,237110,Water and Sewer Line and Related Structures Construction,Nonresidential maintenance and repair,NA,0
+230301,0,237120,Oil and Gas Pipeline and Related Structures Construction,Nonresidential maintenance and repair,NA,0
+230301,0,237130,Power and Communication Line and Related Structures Construction,Nonresidential maintenance and repair,NA,0
+230301,0,237210,Land Subdivision,Nonresidential maintenance and repair,NA,0
+230301,0,237310,"Highway, Street, and Bridge Construction",Nonresidential maintenance and repair,NA,0
+230301,0,237990,Other Heavy and Civil Engineering Construction,Nonresidential maintenance and repair,NA,0
+230301,0,238110,Poured Concrete Foundation and Structure Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238120,Structural Steel and Precast Concrete Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238130,Framing Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238140,Masonry Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238150,Glass and Glazing Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238160,Roofing Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238170,Siding Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238190,"Other Foundation, Structure, and Building Exterior Contractors - except building fireproofing contractors",Nonresidential maintenance and repair,NA,0
+230301,0,238210,Electrical Contractors and Other Wiring Installation Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238220,"Plumbing, Heating, and Air-Conditioning Contractors",Nonresidential maintenance and repair,NA,0
+230301,0,238290,Other Building Equipment Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238310,Drywall and Insulation Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238320,Painting and Wall Covering Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238330,Flooring Contractors - fireproof flooring construction contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238340,Tile and Terrazzo Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238350,Finish Carpentry Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238390,Other Building Finishing Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238910,Site Preparation Contractors,Nonresidential maintenance and repair,NA,0
+230301,0,238990,All Other Specialty Trade Contractors,Nonresidential maintenance and repair,NA,0
+311111,4,311111,Dog and Cat Food Manufacturing,Dog and cat food manufacturing,Animal feed,1
+311119,4,311119,Other Animal Food Manufacturing,Other animal food manufacturing,Animal feed,1
+311210,6,311211,Flour Milling,Flour milling and malt manufacturing,Milled grain prods.,1
+311210,6,311212,Rice Milling,Flour milling and malt manufacturing,Milled grain prods.,1
+311210,6,311213,Malt Manufacturing,Flour milling and malt manufacturing,Milled grain prods.,1
+311221,4,311221,Wet Corn Milling,Wet corn milling,Animal feed,1
+31122A,7,311222,Soybean Processing,Soybean and other oilseed processing,Other foodstuffs,0.5
+31122A,3,311223,Other Oilseed Processing,Soybean and other oilseed processing,Other ag prods.,0.5
+311225,7,311225,Fats and Oils Refining and Blending,Fats and oils refining and blending,Other foodstuffs,1
+311230,6,311230,Breakfast Cereal Manufacturing,Breakfast cereal manufacturing,Milled grain prods.,1
+311300,7,311311,Sugarcane Mills,Sugar and confectionery product manufacturing,Other foodstuffs,1
+311300,7,311312,Cane Sugar Refining,Sugar and confectionery product manufacturing,Other foodstuffs,1
+311300,7,311313,Beet Sugar Manufacturing,Sugar and confectionery product manufacturing,Other foodstuffs,1
+311300,7,311320,Chocolate and Confectionery Manufacturing from Cacao Beans,Sugar and confectionery product manufacturing,Other foodstuffs,1
+311300,7,311330,Confectionery Manufacturing from Purchased Chocolate,Sugar and confectionery product manufacturing,Other foodstuffs,1
+311300,7,311340,Nonchocolate Confectionery Manufacturing,Sugar and confectionery product manufacturing,Other foodstuffs,1
+311410,7,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",Frozen food manufacturing,Other foodstuffs,1
+311410,7,311412,Frozen Specialty Food Manufacturing,Frozen food manufacturing,Other foodstuffs,1
+311420,7,311421,Fruit and Vegetable Canning,"Fruit and vegetable canning, pickling, and drying",Other foodstuffs,1
+311420,7,311422,Specialty Canning,"Fruit and vegetable canning, pickling, and drying",Other foodstuffs,1
+311420,7,311423,Dried and Dehydrated Food Manufacturing,"Fruit and vegetable canning, pickling, and drying",Other foodstuffs,1
+31151A,7,311511,Fluid Milk Manufacturing,Fluid milk and butter manufacturing,Other foodstuffs,1
+31151A,7,311512,Creamery Butter Manufacturing,Fluid milk and butter manufacturing,Other foodstuffs,1
+311513,7,311513,Cheese Manufacturing,Cheese manufacturing,Other foodstuffs,1
+311514,5,311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing","Dry, condensed, and evaporated dairy product manufacturing",Meat/seafood,1
+311520,7,311520,Ice Cream and Frozen Dessert Manufacturing,Ice cream and frozen dessert manufacturing,Other foodstuffs,1
+31161A,5,311611,Animal (except Poultry) Slaughtering,"Animal (except poultry) slaughtering, rendering, and processing",Meat/seafood,0.5
+31161A,5,311612,Meat Processed from Carcasses,"Animal (except poultry) slaughtering, rendering, and processing",Meat/seafood,0.5
+31161A,4,311613,Rendering and Meat Byproduct Processing,"Animal (except poultry) slaughtering, rendering, and processing",Animal feed,0.5
+311615,5,311615,Poultry Processing,Poultry processing,Meat/seafood,1
+311700,7,311711,Seafood Canning,Seafood product preparation and packaging,Other foodstuffs,0.5
+311700,5,311712,Fresh and Frozen Seafood Processing,Seafood product preparation and packaging,Meat/seafood,0.5
+311810,6,311811,Retail Bakeries,Bread and bakery product manufacturing,Milled grain prods.,1
+311810,6,311812,Commercial Bakeries,Bread and bakery product manufacturing,Milled grain prods.,1
+311810,6,311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing",Bread and bakery product manufacturing,Milled grain prods.,1
+3118A0,6,311821,Cookie and Cracker Manufacturing,"Cookie, cracker, pasta, and tortilla manufacturing",Milled grain prods.,1
+3118A0,6,311822,Flour Mixes and Dough Manufacturing from Purchased Flour,"Cookie, cracker, pasta, and tortilla manufacturing",Milled grain prods.,1
+3118A0,6,311823,Dry Pasta Manufacturing,"Cookie, cracker, pasta, and tortilla manufacturing",Milled grain prods.,1
+3118A0,6,311830,Tortilla Manufacturing,"Cookie, cracker, pasta, and tortilla manufacturing",Milled grain prods.,1
+311910,3,311911,Roasted Nuts and Peanut Butter Manufacturing,Snack food manufacturing,Other ag prods.,0.5
+311910,7,311919,Other Snack Food Manufacturing,Snack food manufacturing,Other foodstuffs,0.5
+311920,3,311920,Coffee and Tea Manufacturing,Coffee and tea manufacturing,Other ag prods.,1
+311930,7,311930,Flavoring Syrup and Concentrate Manufacturing,Flavoring syrup and concentrate manufacturing,Other foodstuffs,1
+311940,7,311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",Seasoning and dressing manufacturing,Other foodstuffs,0.5
+311940,23,311942,Spice and Extract Manufacturing,Seasoning and dressing manufacturing,Chemical prods.,0.5
+311990,7,311991,Perishable Prepared Food Manufacturing,All other food manufacturing,Other foodstuffs,1
+311990,7,311999,All Other Miscellaneous Food Manufacturing,All other food manufacturing,Other foodstuffs,1
+312110,7,312111,Soft Drink Manufacturing,Soft drink and ice manufacturing,Other foodstuffs,1
+312110,7,312112,Bottled Water Manufacturing,Soft drink and ice manufacturing,Other foodstuffs,1
+312110,7,312113,Ice Manufacturing,Soft drink and ice manufacturing,Other foodstuffs,1
+312120,8,312120,Breweries,Breweries,Alcoholic beverages,1
+312130,8,312130,Wineries,Wineries,Alcoholic beverages,1
+312140,8,312140,Distilleries,Distilleries,Alcoholic beverages,1
+312200,9,312210,Tobacco Stemming and Redrying,Tobacco product manufacturing,Tobacco prods.,1
+312200,9,312221,Cigarette Manufacturing,Tobacco product manufacturing,Tobacco prods.,1
+312200,9,312229,Other Tobacco Product Manufacturing,Tobacco product manufacturing,Tobacco prods.,1
+313100,3,313111,Yarn Spinning Mills,"Fiber, yarn, and thread mills",Other ag prods.,0.5
+313100,30,313112,"Yarn Texturizing, Throwing, and Twisting Mills","Fiber, yarn, and thread mills",Textiles/leather,0.5
+313100,30,313113,Thread Mills,"Fiber, yarn, and thread mills",Textiles/leather,0.5
+313200,30,313210,Broadwoven Fabric Mills,Fabric mills,Textiles/leather,1
+313200,30,313221,Narrow Fabric Mills,Fabric mills,Textiles/leather,1
+313200,30,313222,Schiffli Machine Embroidery,Fabric mills,Textiles/leather,1
+313200,30,313230,Nonwoven Fabric Mills,Fabric mills,Textiles/leather,1
+313200,30,313241,Weft Knit Fabric Mills,Fabric mills,Textiles/leather,1
+313200,30,313249,Other Knit Fabric and Lace Mills,Fabric mills,Textiles/leather,1
+313300,30,313311,Broadwoven Fabric Finishing Mills,Textile and fabric finishing and fabric coating mills,Textiles/leather,0.5
+313300,30,313312,Textile and Fabric Finishing (except Broadwoven Fabric) Mills,Textile and fabric finishing and fabric coating mills,Textiles/leather,0.5
+313300,24,313320,Fabric Coating Mills,Textile and fabric finishing and fabric coating mills,Plastics/rubber,0.5
+314110,30,314110,Carpet and Rug Mills,Carpet and rug mills,Textiles/leather,1
+314120,30,314121,Curtain and Drapery Mills,Curtain and linen mills,Textiles/leather,1
+314120,30,314129,Other Household Textile Product Mills,Curtain and linen mills,Textiles/leather,1
+314900,30,314911,Textile Bag Mills,Other textile product mills,Textiles/leather,0.5
+314900,30,314912,Canvas and Related Product Mills,Other textile product mills,Textiles/leather,0.5
+314900,30,314991,"Rope, Cordage, and Twine Mills",Other textile product mills,Textiles/leather,0.5
+314900,30,314992,Tire Cord and Tire Fabric Mills,Other textile product mills,Textiles/leather,0.5
+314900,34,314999,All Other Miscellaneous Textile Product Mills,Other textile product mills,Machinery,0.5
+315000,30,315111,Sheer Hosiery Mills,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315119,Other Hosiery and Sock Mills,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315191,Outerwear Knitting Mills,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315192,Underwear and Nightwear Knitting Mills,Apparel manufacturing,Textiles/leather,0.5
+315000,24,315211,Men's and Boys' Cut and Sew Apparel Contractors,Apparel manufacturing,Plastics/rubber,0.5
+315000,30,315212,"Women's, Girls', and Infants' Cut and Sew Apparel Contractors",Apparel manufacturing,Textiles/leather,0.5
+315000,30,315221,Men's and Boys' Cut and Sew Underwear and Nightwear Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315222,"Men's and Boys' Cut and Sew Suit, Coat, and Overcoat Manufacturing",Apparel manufacturing,Textiles/leather,0.5
+315000,30,315223,Men's and Boys' Cut and Sew Shirt (except Work Shirt) Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315224,"Men's and Boys' Cut and Sew Trouser, Slack, and Jean Manufacturing",Apparel manufacturing,Textiles/leather,0.5
+315000,30,315225,Men's and Boys' Cut and Sew Work Clothing Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315228,Men's and Boys' Cut and Sew Other Outerwear Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315231,"Women's and Girls' Cut and Sew Lingerie, Loungewear, and Nightwear Manufacturing",Apparel manufacturing,Textiles/leather,0.5
+315000,30,315232,Women's and Girls' Cut and Sew Blouse and Shirt Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315233,Women's and Girls' Cut and Sew Dress Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315234,"Women's and Girls' Cut and Sew Suit, Coat, Tailored Jacket, and Skirt Manufacturing",Apparel manufacturing,Textiles/leather,0.5
+315000,30,315239,Women's and Girls' Cut and Sew Other Outerwear Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315291,Infants' Cut and Sew Apparel Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315292,Fur and Leather Apparel Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315299,All Other Cut and Sew Apparel Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315991,"Hat, Cap, and Millinery Manufacturing",Apparel manufacturing,Textiles/leather,0.5
+315000,30,315992,Glove and Mitten Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315993,Men's and Boys' Neckwear Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+315000,30,315999,Other Apparel Accessories and Other Apparel Manufacturing,Apparel manufacturing,Textiles/leather,0.5
+316000,34,316110,Leather and Hide Tanning and Finishing,Leather and allied product manufacturing,Machinery,0.333333333
+316000,30,316211,Rubber and Plastics Footwear Manufacturing,Leather and allied product manufacturing,Textiles/leather,0.333333333
+316000,30,316212,House Slipper Manufacturing,Leather and allied product manufacturing,Textiles/leather,0.333333333
+316000,30,316213,Men's Footwear (except Athletic) Manufacturing,Leather and allied product manufacturing,Textiles/leather,0.333333333
+316000,30,316214,Women's Footwear (except Athletic) Manufacturing,Leather and allied product manufacturing,Textiles/leather,0.333333333
+316000,30,316219,Other Footwear Manufacturing,Leather and allied product manufacturing,Textiles/leather,0.333333333
+316000,30,316991,Luggage Manufacturing,Leather and allied product manufacturing,Textiles/leather,0.333333333
+316000,24,316992,Women's Handbag and Purse Manufacturing,Leather and allied product manufacturing,Plastics/rubber,0.333333333
+316000,30,316993,Personal Leather Good (except Women's Handbag and Purse) Manufacturing,Leather and allied product manufacturing,Textiles/leather,0.333333333
+316000,30,316999,All Other Leather Good and Allied Product Manufacturing,Leather and allied product manufacturing,Textiles/leather,0.333333333
+321100,26,321113,Sawmills,Sawmills and wood preservation,Wood prods.,0.5
+321100,25,321114,Wood Preservation,Sawmills and wood preservation,Logs,0.5
+321200,26,321211,Hardwood Veneer and Plywood Manufacturing,"Veneer, plywood, and engineered wood product manufacturing",Wood prods.,1
+321200,26,321212,Softwood Veneer and Plywood Manufacturing,"Veneer, plywood, and engineered wood product manufacturing",Wood prods.,1
+321200,26,321213,Engineered Wood Member (except Truss) Manufacturing,"Veneer, plywood, and engineered wood product manufacturing",Wood prods.,1
+321200,26,321214,Truss Manufacturing,"Veneer, plywood, and engineered wood product manufacturing",Wood prods.,1
+321200,26,321219,Reconstituted Wood Product Manufacturing,"Veneer, plywood, and engineered wood product manufacturing",Wood prods.,1
+321910,26,321911,Wood Window and Door Manufacturing,Millwork,Wood prods.,1
+321910,26,321912,"Cut Stock, Resawing Lumber, and Planing",Millwork,Wood prods.,1
+321910,26,321918,Other Millwork (including Flooring),Millwork,Wood prods.,1
+3219A0,26,321920,Wood Container and Pallet Manufacturing,All other wood product manufacturing,Wood prods.,0.333333333
+3219A0,36,321991,Manufactured Home (Mobile Home) Manufacturing,All other wood product manufacturing,Motorized vehicles,0.333333333
+3219A0,40,321992,Prefabricated Wood Building Manufacturing,All other wood product manufacturing,Misc. mfg. prods.,0.333333333
+3219A0,26,321999,All Other Miscellaneous Wood Product Manufacturing,All other wood product manufacturing,Wood prods.,0.333333333
+322110,27,322110,Pulp Mills,Pulp mills,Newsprint/paper,1
+322120,27,322121,Paper (except Newsprint) Mills,Paper mills,Newsprint/paper,1
+322120,27,322122,Newsprint Mills,Paper mills,Newsprint/paper,1
+322130,27,322130,Paperboard Mills,Paperboard mills,Newsprint/paper,1
+322210,24,322211,Corrugated and Solid Fiber Box Manufacturing,Paperboard container manufacturing,Plastics/rubber,0.5
+322210,28,322212,Folding Paperboard Box Manufacturing,Paperboard container manufacturing,Paper articles,0.5
+322210,28,322213,Setup Paperboard Box Manufacturing,Paperboard container manufacturing,Paper articles,0.5
+322210,28,322214,"Fiber Can, Tube, Drum, and Similar Products Manufacturing",Paperboard container manufacturing,Paper articles,0.5
+322210,28,322215,Nonfolding Sanitary Food Container Manufacturing,Paperboard container manufacturing,Paper articles,0.5
+322220,28,322221,Coated and Laminated Packaging Paper Manufacturing,Paper bag and coated and treated paper manufacturing,Paper articles,0.25
+322220,27,322222,Coated and Laminated Paper Manufacturing,Paper bag and coated and treated paper manufacturing,Newsprint/paper,0.25
+322220,24,322223,Coated Paper Bag and Pouch Manufacturing,Paper bag and coated and treated paper manufacturing,Plastics/rubber,0.25
+322220,28,322224,Uncoated Paper and Multiwall Bag Manufacturing,Paper bag and coated and treated paper manufacturing,Paper articles,0.25
+322220,32,322225,Laminated Aluminum Foil Manufacturing for Flexible Packaging Uses,Paper bag and coated and treated paper manufacturing,Base metals,0.25
+322220,28,322226,Surface-Coated Paperboard Manufacturing,Paper bag and coated and treated paper manufacturing,Paper articles,0.25
+322230,28,322231,Die-Cut Paper and Paperboard Office Supplies Manufacturing,Stationery product manufacturing,Paper articles,1
+322230,28,322232,Envelope Manufacturing,Stationery product manufacturing,Paper articles,1
+322230,28,322233,"Stationery, Tablet, and Related Product Manufacturing",Stationery product manufacturing,Paper articles,1
+322291,34,322291,Sanitary Paper Product Manufacturing,Sanitary paper product manufacturing,Machinery,1
+322299,28,322299,All Other Converted Paper Product Manufacturing,All other converted paper product manufacturing,Paper articles,1
+323110,29,323110,Commercial Lithographic Printing,Printing,Printed prods.,0.5
+323110,29,323111,Commercial Gravure Printing,Printing,Printed prods.,0.5
+323110,29,323112,Commercial Flexographic Printing,Printing,Printed prods.,0.5
+323110,39,323113,Commercial Screen Printing,Printing,Furniture,0.5
+323110,29,323114,Quick Printing,Printing,Printed prods.,0.5
+323110,29,323115,Digital Printing,Printing,Printed prods.,0.5
+323110,29,323116,Manifold Business Forms Printing,Printing,Printed prods.,0.5
+323110,29,323117,Books Printing,Printing,Printed prods.,0.5
+323110,29,323118,"Blankbook, Looseleaf Binders, and Devices Manufacturing",Printing,Printed prods.,0.5
+323110,29,323119,Other Commercial Printing,Printing,Printed prods.,0.5
+323120,29,323121,Tradebinding and Related Work,Support activities for printing,Printed prods.,0.5
+323120,34,323122,Prepress Services,Support activities for printing,Machinery,0.5
+324110,17,324110,Petroleum Refineries,Petroleum refineries,Gasoline,1
+324121,19,324121,Asphalt Paving Mixture and Block Manufacturing,Asphalt paving mixture and block manufacturing,Coal-n.e.c.,1
+324122,31,324122,Asphalt Shingle and Coating Materials Manufacturing,Asphalt shingle and coating materials manufacturing,Nonmetal min. prods.,1
+324190,19,324191,Petroleum Lubricating Oil and Grease Manufacturing,Other petroleum and coal products manufacturing,Coal-n.e.c.,1
+324190,19,324199,All Other Petroleum and Coal Products Manufacturing,Other petroleum and coal products manufacturing,Coal-n.e.c.,1
+325110,20,325110,Petrochemical Manufacturing,Petrochemical manufacturing,Basic chemicals,1
+325120,20,325120,Industrial Gas Manufacturing,Industrial gas manufacturing,Basic chemicals,1
+325130,20,325131,Inorganic Dye and Pigment Manufacturing,Synthetic dye and pigment manufacturing,Basic chemicals,1
+325130,20,325132,Synthetic Organic Dye and Pigment Manufacturing,Synthetic dye and pigment manufacturing,Basic chemicals,1
+325180,20,325181,Alkalies and Chlorine Manufacturing,Other basic inorganic chemical manufacturing,Basic chemicals,1
+325180,20,325182,Carbon Black Manufacturing,Other basic inorganic chemical manufacturing,Basic chemicals,1
+325180,20,325188,All Other Basic Inorganic Chemical Manufacturing,Other basic inorganic chemical manufacturing,Basic chemicals,1
+325190,23,325191,Gum and Wood Chemical Manufacturing,Other basic organic chemical manufacturing,Chemical prods.,0.5
+325190,20,325192,Cyclic Crude and Intermediate Manufacturing,Other basic organic chemical manufacturing,Basic chemicals,0.5
+325190,20,325193,Ethyl Alcohol Manufacturing,Other basic organic chemical manufacturing,Basic chemicals,0.5
+325190,20,325199,All Other Basic Organic Chemical Manufacturing,Other basic organic chemical manufacturing,Basic chemicals,0.5
+325211,24,325211,Plastics Material and Resin Manufacturing,Plastics material and resin manufacturing,Plastics/rubber,1
+3252A0,24,325212,Synthetic Rubber Manufacturing,Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,Plastics/rubber,0.5
+3252A0,30,325221,Cellulosic Organic Fiber Manufacturing,Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,Textiles/leather,0.5
+3252A0,24,325222,Noncellulosic Organic Fiber Manufacturing,Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,Plastics/rubber,0.5
+325310,22,325311,Nitrogenous Fertilizer Manufacturing,Fertilizer manufacturing,Fertilizers,0.5
+325310,20,325312,Phosphatic Fertilizer Manufacturing,Fertilizer manufacturing,Basic chemicals,0.5
+325310,22,325314,Fertilizer (Mixing Only) Manufacturing,Fertilizer manufacturing,Fertilizers,0.5
+325320,20,325320,Pesticide and Other Agricultural Chemical Manufacturing,Pesticide and other agricultural chemical manufacturing,Basic chemicals,1
+325411,20,325411,Medicinal and Botanical Manufacturing,Medicinal and botanical manufacturing,Basic chemicals,1
+325412,23,325412,Pharmaceutical Preparation Manufacturing,Pharmaceutical preparation manufacturing,Chemical prods.,1
+325413,21,325413,In-Vitro Diagnostic Substance Manufacturing,In-vitro diagnostic substance manufacturing,Pharmaceuticals,1
+325414,21,325414,Biological Product (except Diagnostic) Manufacturing,Biological product (except diagnostic) manufacturing,Pharmaceuticals,1
+325510,23,325510,Paint and Coating Manufacturing,Paint and coating manufacturing,Chemical prods.,1
+325520,23,325520,Adhesive Manufacturing,Adhesive manufacturing,Chemical prods.,1
+325610,20,325611,Soap and Other Detergent Manufacturing,Soap and cleaning compound manufacturing,Basic chemicals,0.333333333
+325610,23,325612,Polish and Other Sanitation Good Manufacturing,Soap and cleaning compound manufacturing,Chemical prods.,0.333333333
+325610,7,325613,Surface Active Agent Manufacturing,Soap and cleaning compound manufacturing,Other foodstuffs,0.333333333
+325620,23,325620,Toilet Preparation Manufacturing,Toilet preparation manufacturing,Chemical prods.,1
+325910,23,325910,Printing Ink Manufacturing,Printing ink manufacturing,Chemical prods.,1
+3259A0,23,325920,Explosives Manufacturing,All other chemical product and preparation manufacturing,Chemical prods.,1
+3259A0,23,325991,Custom Compounding of Purchased Resins,All other chemical product and preparation manufacturing,Chemical prods.,1
+3259A0,23,325992,"Photographic Film, Paper, Plate, and Chemical Manufacturing",All other chemical product and preparation manufacturing,Chemical prods.,1
+3259A0,23,325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing,All other chemical product and preparation manufacturing,Chemical prods.,1
+326110,24,326111,Plastics Bag and Pouch Manufacturing,Plastics packaging materials and unlaminated film and sheet manufacturing,Plastics/rubber,1
+326110,24,326112,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,Plastics packaging materials and unlaminated film and sheet manufacturing,Plastics/rubber,1
+326110,24,326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing,Plastics packaging materials and unlaminated film and sheet manufacturing,Plastics/rubber,1
+326120,24,326121,Unlaminated Plastics Profile Shape Manufacturing,"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",Plastics/rubber,1
+326120,24,326122,Plastics Pipe and Pipe Fitting Manufacturing,"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",Plastics/rubber,1
+326130,24,326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing","Laminated plastics plate, sheet (except packaging), and shape manufacturing",Plastics/rubber,1
+326140,24,326140,Polystyrene Foam Product Manufacturing,Polystyrene foam product manufacturing,Plastics/rubber,1
+326150,24,326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing,Urethane and other foam product (except polystyrene) manufacturing,Plastics/rubber,1
+326160,24,326160,Plastics Bottle Manufacturing,Plastics bottle manufacturing,Plastics/rubber,1
+326190,24,326191,Plastics Plumbing Fixture Manufacturing,Other plastics product manufacturing,Plastics/rubber,1
+326190,24,326192,Resilient Floor Covering Manufacturing,Other plastics product manufacturing,Plastics/rubber,1
+326190,24,326199,All Other Plastics Product Manufacturing,Other plastics product manufacturing,Plastics/rubber,1
+326210,24,326211,Tire Manufacturing (except Retreading),Tire manufacturing,Plastics/rubber,1
+326210,24,326212,Tire Retreading,Tire manufacturing,Plastics/rubber,1
+326220,24,326220,Rubber and Plastics Hoses and Belting Manufacturing,Rubber and plastics hoses and belting manufacturing,Plastics/rubber,1
+326290,24,326291,Rubber Product Manufacturing for Mechanical Use,Other rubber product manufacturing,Plastics/rubber,1
+326290,24,326299,All Other Rubber Product Manufacturing,Other rubber product manufacturing,Plastics/rubber,1
+327100,31,327111,Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing,Clay product and refractory manufacturing,Nonmetal min. prods.,0.5
+327100,35,327112,"Vitreous China, Fine Earthenware, and Other Pottery Product Manufacturing",Clay product and refractory manufacturing,Electronics,0.5
+327100,35,327113,Porcelain Electrical Supply Manufacturing,Clay product and refractory manufacturing,Electronics,0.5
+327100,31,327121,Brick and Structural Clay Tile Manufacturing,Clay product and refractory manufacturing,Nonmetal min. prods.,0.5
+327100,31,327122,Ceramic Wall and Floor Tile Manufacturing,Clay product and refractory manufacturing,Nonmetal min. prods.,0.5
+327100,31,327123,Other Structural Clay Product Manufacturing,Clay product and refractory manufacturing,Nonmetal min. prods.,0.5
+327100,31,327124,Clay Refractory Manufacturing,Clay product and refractory manufacturing,Nonmetal min. prods.,0.5
+327100,31,327125,Nonclay Refractory Manufacturing,Clay product and refractory manufacturing,Nonmetal min. prods.,0.5
+327200,31,327211,Flat Glass Manufacturing,Glass and glass product manufacturing,Nonmetal min. prods.,0.5
+327200,39,327212,Other Pressed and Blown Glass and Glassware Manufacturing,Glass and glass product manufacturing,Furniture,0.5
+327200,31,327213,Glass Container Manufacturing,Glass and glass product manufacturing,Nonmetal min. prods.,0.5
+327200,31,327215,Glass Product Manufacturing Made of Purchased Glass,Glass and glass product manufacturing,Nonmetal min. prods.,0.5
+327310,31,327310,Cement Manufacturing,Cement manufacturing,Nonmetal min. prods.,1
+327320,23,327320,Ready-Mix Concrete Manufacturing,Ready-mix concrete manufacturing,Chemical prods.,1
+327330,31,327331,Concrete Block and Brick Manufacturing,"Concrete pipe, brick, and block manufacturing",Nonmetal min. prods.,1
+327330,31,327332,Concrete Pipe Manufacturing,"Concrete pipe, brick, and block manufacturing",Nonmetal min. prods.,1
+327390,31,327390,Other Concrete Product Manufacturing,Other concrete product manufacturing,Nonmetal min. prods.,1
+327400,13,327410,Lime Manufacturing,Lime and gypsum product manufacturing,Nonmetallic minerals,0.5
+327400,31,327420,Gypsum Product Manufacturing,Lime and gypsum product manufacturing,Nonmetal min. prods.,0.5
+327910,20,327910,Abrasive Product Manufacturing,Abrasive product manufacturing,Basic chemicals,1
+327991,31,327991,Cut Stone and Stone Product Manufacturing,Cut stone and stone product manufacturing,Nonmetal min. prods.,1
+327992,31,327992,Ground or Treated Mineral and Earth Manufacturing,Ground or treated mineral and earth manufacturing,Nonmetal min. prods.,1
+327993,31,327993,Mineral Wool Manufacturing,Mineral wool manufacturing,Nonmetal min. prods.,1
+327999,31,327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,Miscellaneous nonmetallic mineral products,Nonmetal min. prods.,1
+331110,32,331111,Iron and Steel Mills,Iron and steel mills and ferroalloy manufacturing,Base metals,1
+331110,32,331112,Electrometallurgical Ferroalloy Product Manufacturing,Iron and steel mills and ferroalloy manufacturing,Base metals,1
+331200,32,331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Steel product manufacturing from purchased steel,Base metals,0.5
+331200,32,331221,Rolled Steel Shape Manufacturing,Steel product manufacturing from purchased steel,Base metals,0.5
+331200,33,331222,Steel Wire Drawing,Steel product manufacturing from purchased steel,Articles-base metal,0.5
+33131A,32,331311,Alumina Refining,Alumina refining and primary aluminum production,Base metals,1
+33131A,32,331312,Primary Aluminum Production,Alumina refining and primary aluminum production,Base metals,1
+331314,32,331314,Secondary Smelting and Alloying of Aluminum,NA,Base metals,1
+33131B,32,331315,"Aluminum Sheet, Plate, and Foil Manufacturing",Aluminum product manufacturing from purchased aluminum,Base metals,0.5
+33131B,33,331316,Aluminum Extruded Product Manufacturing,Aluminum product manufacturing from purchased aluminum,Articles-base metal,0.5
+33131B,32,331319,Other Aluminum Rolling and Drawing,Aluminum product manufacturing from purchased aluminum,Base metals,0.5
+331411,41,331411,Primary Smelting and Refining of Copper,Primary smelting and refining of copper,Waste/scrap,1
+331419,32,331419,Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum),Primary smelting and refining of nonferrous metal (except copper and aluminum),Base metals,1
+331420,33,331421,"Copper Rolling, Drawing, and Extruding","Copper rolling, drawing, extruding and alloying",Articles-base metal,0.5
+331420,32,331422,Copper Wire (except Mechanical) Drawing,"Copper rolling, drawing, extruding and alloying",Base metals,0.5
+331420,32,331423,"Secondary Smelting, Refining, and Alloying of Copper","Copper rolling, drawing, extruding and alloying",Base metals,0.5
+331490,32,331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding","Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",Base metals,1
+331490,32,331492,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)","Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",Base metals,1
+331510,33,331511,Iron Foundries,Ferrous metal foundries,Articles-base metal,0.5
+331510,32,331512,Steel Investment Foundries,Ferrous metal foundries,Base metals,0.5
+331510,32,331513,Steel Foundries (except Investment),Ferrous metal foundries,Base metals,0.5
+331520,32,331521,Aluminum Die-Casting Foundries,Nonferrous metal foundries,Base metals,0.5
+331520,32,331522,Nonferrous (except Aluminum) Die-Casting Foundries,Nonferrous metal foundries,Base metals,0.5
+331520,33,331524,Aluminum Foundries (except Die-Casting),Nonferrous metal foundries,Articles-base metal,0.5
+331520,32,331525,Copper Foundries (except Die-Casting),Nonferrous metal foundries,Base metals,0.5
+331520,32,331528,Other Nonferrous Foundries (except Die-Casting),Nonferrous metal foundries,Base metals,0.5
+33211A,33,332111,Iron and Steel Forging,"All other forging, stamping, and sintering",Articles-base metal,1
+33211A,33,332112,Nonferrous Forging,"All other forging, stamping, and sintering",Articles-base metal,1
+332114,33,332114,Custom Roll Forming,Custom roll forming,Articles-base metal,1
+33211B,33,332115,Crown and Closure Manufacturing,Crown and closure manufacturing and metal stamping,Articles-base metal,1
+33211B,33,332116,Metal Stamping,Crown and closure manufacturing and metal stamping,Articles-base metal,1
+33211A,33,332117,Powder Metallurgy Part Manufacturing,"All other forging, stamping, and sintering",Articles-base metal,1
+332200,33,332211,Cutlery and Flatware (except Precious) Manufacturing,Cutlery and handtool manufacturing,Articles-base metal,0.333333333
+332200,34,332212,Hand and Edge Tool Manufacturing,Cutlery and handtool manufacturing,Machinery,0.333333333
+332200,33,332213,Saw Blade and Handsaw Manufacturing,Cutlery and handtool manufacturing,Articles-base metal,0.333333333
+332200,40,332214,"Kitchen Utensil, Pot, and Pan Manufacturing",Cutlery and handtool manufacturing,Misc. mfg. prods.,0.333333333
+332310,40,332311,Prefabricated Metal Building and Component Manufacturing,Plate work and fabricated structural product manufacturing,Misc. mfg. prods.,0.333333333
+332310,33,332312,Fabricated Structural Metal Manufacturing,Plate work and fabricated structural product manufacturing,Articles-base metal,0.333333333
+332310,37,332313,Plate Work Manufacturing,Plate work and fabricated structural product manufacturing,Transport equip.,0.333333333
+332320,33,332321,Metal Window and Door Manufacturing,Ornamental and architectural metal products manufacturing,Articles-base metal,1
+332320,33,332322,Sheet Metal Work Manufacturing,Ornamental and architectural metal products manufacturing,Articles-base metal,1
+332320,33,332323,Ornamental and Architectural Metal Work Manufacturing,Ornamental and architectural metal products manufacturing,Articles-base metal,1
+332410,34,332410,Power Boiler and Heat Exchanger Manufacturing,Power boiler and heat exchanger manufacturing,Machinery,1
+332420,33,332420,Metal Tank (Heavy Gauge) Manufacturing,Metal tank (heavy gauge) manufacturing,Articles-base metal,1
+332430,33,332431,Metal Can Manufacturing,"Metal can, box, and other metal container (light gauge) manufacturing",Articles-base metal,0.5
+332430,34,332439,Other Metal Container Manufacturing,"Metal can, box, and other metal container (light gauge) manufacturing",Machinery,0.5
+332500,33,332510,Hardware Manufacturing,Hardware manufacturing,Articles-base metal,1
+332600,33,332611,Spring (Heavy Gauge) Manufacturing,Spring and wire product manufacturing,Articles-base metal,1
+332600,33,332612,Spring (Light Gauge) Manufacturing,Spring and wire product manufacturing,Articles-base metal,1
+332600,33,332618,Other Fabricated Wire Product Manufacturing,Spring and wire product manufacturing,Articles-base metal,1
+332710,34,332710,Machine Shops,Machine shops,Machinery,1
+332720,33,332721,Precision Turned Product Manufacturing,"Turned product and screw, nut, and bolt manufacturing",Articles-base metal,1
+332720,33,332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing","Turned product and screw, nut, and bolt manufacturing",Articles-base metal,1
+332800,33,332811,Metal Heat Treating,"Coating, engraving, heat treating and allied activities",Articles-base metal,1
+332800,33,332812,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers","Coating, engraving, heat treating and allied activities",Articles-base metal,1
+332800,33,332813,"Electroplating, Plating, Polishing, Anodizing, and Coloring","Coating, engraving, heat treating and allied activities",Articles-base metal,1
+33291A,33,332911,Industrial Valve Manufacturing,Valve and fittings other than plumbing,Articles-base metal,0.5
+33291A,37,332912,Fluid Power Valve and Hose Fitting Manufacturing,Valve and fittings other than plumbing,Transport equip.,0.5
+332913,33,332913,Plumbing Fixture Fitting and Trim Manufacturing,Plumbing fixture fitting and trim manufacturing,Articles-base metal,1
+33291A,33,332919,Other Metal Valve and Pipe Fitting Manufacturing,Valve and fittings other than plumbing,Articles-base metal,0.5
+332991,34,332991,Ball and Roller Bearing Manufacturing,Ball and roller bearing manufacturing,Machinery,1
+33299A,40,332992,Small Arms Ammunition Manufacturing,"Ammunition, arms, ordnance, and accessories manufacturing",Misc. mfg. prods.,0.333333333
+33299A,33,332993,Ammunition (except Small Arms) Manufacturing,"Ammunition, arms, ordnance, and accessories manufacturing",Articles-base metal,0.333333333
+33299A,38,332994,Small Arms Manufacturing,"Ammunition, arms, ordnance, and accessories manufacturing",Precision instruments,0.333333333
+33299A,40,332995,Other Ordnance and Accessories Manufacturing,"Ammunition, arms, ordnance, and accessories manufacturing",Misc. mfg. prods.,0.333333333
+332996,33,332996,Fabricated Pipe and Pipe Fitting Manufacturing,Fabricated pipe and pipe fitting manufacturing,Articles-base metal,1
+33299B,34,332997,Industrial Pattern Manufacturing,Other fabricated metal manufacturing,Machinery,0.5
+33299B,33,332998,Enameled Iron and Metal Sanitary Ware Manufacturing,Other fabricated metal manufacturing,Articles-base metal,0.5
+33299B,33,332999,All Other Miscellaneous Fabricated Metal Product Manufacturing,Other fabricated metal manufacturing,Articles-base metal,0.5
+333111,34,333111,Farm Machinery and Equipment Manufacturing,Farm machinery and equipment manufacturing,Machinery,1
+333112,34,333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,Lawn and garden equipment manufacturing,Machinery,1
+333120,34,333120,Construction Machinery Manufacturing,Construction machinery manufacturing,Machinery,1
+333130,34,333131,Mining Machinery and Equipment Manufacturing,Mining and oil and gas field machinery manufacturing,Machinery,1
+333130,34,333132,Oil and Gas Field Machinery and Equipment Manufacturing,Mining and oil and gas field machinery manufacturing,Machinery,1
+33329A,34,333210,Sawmill and Woodworking Machinery Manufacturing,Other industrial machinery manufacturing,Machinery,1
+333220,34,333220,Plastics and Rubber Industry Machinery Manufacturing,Plastics and rubber industry machinery manufacturing,Machinery,1
+33329A,34,333291,Paper Industry Machinery Manufacturing,Other industrial machinery manufacturing,Machinery,1
+33329A,34,333292,Textile Machinery Manufacturing,Other industrial machinery manufacturing,Machinery,1
+33329A,34,333293,Printing Machinery and Equipment Manufacturing,Other industrial machinery manufacturing,Machinery,1
+33329A,34,333294,Food Product Machinery Manufacturing,Other industrial machinery manufacturing,Machinery,1
+333295,34,333295,Semiconductor Machinery Manufacturing,Semiconductor machinery manufacturing,Machinery,1
+33329A,34,333298,All Other Industrial Machinery Manufacturing,Other industrial machinery manufacturing,Machinery,1
+33331A,34,333311,Automatic Vending Machine Manufacturing,"Vending, commercial laundry, and other commercial and service industry machinery manufacturing",Machinery,0.5
+33331A,34,333312,"Commercial Laundry, Drycleaning, and Pressing Machine Manufacturing","Vending, commercial laundry, and other commercial and service industry machinery manufacturing",Machinery,0.5
+333313,35,333313,Office Machinery Manufacturing,Office machinery manufacturing,Electronics,1
+333314,38,333314,Optical Instrument and Lens Manufacturing,Optical instrument and lens manufacturing,Precision instruments,1
+333315,34,333315,Photographic and Photocopying Equipment Manufacturing,Photographic and photocopying equipment manufacturing,Machinery,1
+33331A,41,333319,Other Commercial and Service Industry Machinery Manufacturing,"Vending, commercial laundry, and other commercial and service industry machinery manufacturing",Waste/scrap,0.5
+33341A,34,333411,Air Purification Equipment Manufacturing,Air purification and ventilation equipment manufacturing,Machinery,1
+33341A,34,333412,Industrial and Commercial Fan and Blower Manufacturing,Air purification and ventilation equipment manufacturing,Machinery,1
+333414,34,333414,Heating Equipment (except Warm Air Furnaces) Manufacturing,Heating equipment (except warm air furnaces) manufacturing,Machinery,1
+333415,34,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,"Air conditioning, refrigeration, and warm air heating equipment manufacturing",Machinery,1
+333511,34,333511,Industrial Mold Manufacturing,Industrial mold manufacturing,Machinery,1
+33351A,34,333512,Machine Tool (Metal Cutting Types) Manufacturing,Metal cutting and forming machine tool manufacturing,Machinery,1
+33351A,34,333513,Machine Tool (Metal Forming Types) Manufacturing,Metal cutting and forming machine tool manufacturing,Machinery,1
+333514,34,333514,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing","Special tool, die, jig, and fixture manufacturing",Machinery,1
+33351B,34,333515,Cutting Tool and Machine Tool Accessory Manufacturing,"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",Machinery,1
+33351B,34,333516,Rolling Mill Machinery and Equipment Manufacturing,"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",Machinery,1
+33351B,34,333518,Other Metalworking Machinery Manufacturing,"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",Machinery,1
+333611,34,333611,Turbine and Turbine Generator Set Units Manufacturing,Turbine and turbine generator set units manufacturing,Machinery,1
+333612,35,333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing","Speed changer, industrial high-speed drive, and gear manufacturing",Electronics,1
+333613,34,333613,Mechanical Power Transmission Equipment Manufacturing,Mechanical power transmission equipment manufacturing,Machinery,1
+333618,34,333618,Other Engine Equipment Manufacturing,Other engine equipment manufacturing,Machinery,1
+33391A,37,333911,Pump and Pumping Equipment Manufacturing,Pump and pumping equipment manufacturing,Transport equip.,0.5
+333912,34,333912,Air and Gas Compressor Manufacturing,Air and gas compressor manufacturing,Machinery,1
+33391A,34,333913,Measuring and Dispensing Pump Manufacturing,Pump and pumping equipment manufacturing,Machinery,0.5
+333920,34,333921,Elevator and Moving Stairway Manufacturing,Material handling equipment manufacturing,Machinery,0.5
+333920,34,333922,Conveyor and Conveying Equipment Manufacturing,Material handling equipment manufacturing,Machinery,0.5
+333920,34,333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",Material handling equipment manufacturing,Machinery,0.5
+333920,36,333924,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",Material handling equipment manufacturing,Motorized vehicles,0.5
+333991,33,333991,Power-Driven Handtool Manufacturing,Power-driven handtool manufacturing,Articles-base metal,1
+33399A,33,333992,Welding and Soldering Equipment Manufacturing,Other general purpose machinery manufacturing,Articles-base metal,0.5
+333993,34,333993,Packaging Machinery Manufacturing,Packaging machinery manufacturing,Machinery,1
+333994,34,333994,Industrial Process Furnace and Oven Manufacturing,Industrial process furnace and oven manufacturing,Machinery,1
+33399B,34,333995,Fluid Power Cylinder and Actuator Manufacturing,Fluid power process machinery,Machinery,1
+33399B,34,333996,Fluid Power Pump and Motor Manufacturing,Fluid power process machinery,Machinery,1
+33399A,34,333997,Scale and Balance Manufacturing,Other general purpose machinery manufacturing,Machinery,0.5
+33399A,34,333999,All Other Miscellaneous General Purpose Machinery Manufacturing,Other general purpose machinery manufacturing,Machinery,0.5
+334111,35,334111,Electronic Computer Manufacturing,Electronic computer manufacturing,Electronics,1
+334112,35,334112,Computer Storage Device Manufacturing,Computer storage device manufacturing,Electronics,1
+33411A,35,334113,Computer Terminal Manufacturing,Computer terminals and other computer peripheral equipment manufacturing,Electronics,1
+33411A,35,334119,Other Computer Peripheral Equipment Manufacturing - digital camera manufacturing,Computer terminals and other computer peripheral equipment manufacturing,Electronics,1
+334210,35,334210,Telephone Apparatus Manufacturing,Telephone apparatus manufacturing,Electronics,1
+334220,35,334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Broadcast and wireless communications equipment,Electronics,1
+334290,37,334290,Other Communications Equipment Manufacturing,Other communications equipment manufacturing,Transport equip.,1
+334300,35,334310,Audio and Video Equipment Manufacturing,Audio and video equipment manufacturing,Electronics,1
+33441A,35,334411,Electron Tube Manufacturing,Other electronic component manufacturing,Electronics,1
+33441A,35,334412,Bare Printed Circuit Board Manufacturing,Other electronic component manufacturing,Electronics,1
+334413,35,334413,Semiconductor and Related Device Manufacturing,Semiconductor and related device manufacturing,Electronics,1
+33441A,35,334414,Electronic Capacitor Manufacturing,Other electronic component manufacturing,Electronics,1
+33441A,35,334415,Electronic Resistor Manufacturing,Other electronic component manufacturing,Electronics,1
+33441A,35,334416,"Electronic Coil, Transformer, and Other Inductor Manufacturing",Other electronic component manufacturing,Electronics,1
+33441A,35,334417,Electronic Connector Manufacturing,Other electronic component manufacturing,Electronics,1
+334418,35,334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing,Printed circuit assembly (electronic assembly) manufacturing,Electronics,1
+33441A,35,334419,Other Electronic Component Manufacturing,Other electronic component manufacturing,Electronics,1
+334510,38,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing,Electromedical and electrotherapeutic apparatus manufacturing,Precision instruments,1
+334511,35,334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing","Search, detection, and navigation instruments manufacturing",Electronics,1
+334512,38,334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",Automatic environmental control manufacturing,Precision instruments,1
+334513,38,334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",Industrial process variable instruments manufacturing,Precision instruments,1
+334514,38,334514,Totalizing Fluid Meter and Counting Device Manufacturing,Totalizing fluid meter and counting device manufacturing,Precision instruments,1
+334515,35,334515,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,Electricity and signal testing instruments manufacturing,Electronics,1
+334516,34,334516,Analytical Laboratory Instrument Manufacturing,Analytical laboratory instrument manufacturing,Machinery,1
+334517,38,334517,Irradiation Apparatus Manufacturing,Irradiation apparatus manufacturing,Precision instruments,1
+33451A,40,334518,"Watch, Clock, and Part Manufacturing","Watch, clock, and other measuring and controlling device manufacturing",Misc. mfg. prods.,0.5
+33451A,35,334519,Other Measuring and Controlling Device Manufacturing,"Watch, clock, and other measuring and controlling device manufacturing",Electronics,0.5
+334610,35,334611,Software Reproducing,Manufacturing and reproducing magnetic and optical media,Electronics,1
+334610,35,334612,"Prerecorded Compact Disc (except Software), Tape, and Record Reproducing",Manufacturing and reproducing magnetic and optical media,Electronics,1
+334610,35,334613,Magnetic and Optical Recording Media Manufacturing,Manufacturing and reproducing magnetic and optical media,Electronics,1
+335110,35,335110,Electric Lamp Bulb and Part Manufacturing,Electric lamp bulb and part manufacturing,Electronics,1
+335120,35,335121,Residential Electric Lighting Fixture Manufacturing,Lighting fixture manufacturing,Electronics,0.5
+335120,35,335122,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",Lighting fixture manufacturing,Electronics,0.5
+335120,33,335129,Other Lighting Equipment Manufacturing,Lighting fixture manufacturing,Articles-base metal,0.5
+335210,35,335211,Electric Housewares and Household Fan Manufacturing,Small electrical appliance manufacturing,Electronics,1
+335210,35,335212,Household Vacuum Cleaner Manufacturing,Small electrical appliance manufacturing,Electronics,1
+335221,35,335221,Household Cooking Appliance Manufacturing,Household cooking appliance manufacturing,Electronics,1
+335222,34,335222,Household Refrigerator and Home Freezer Manufacturing,Household refrigerator and home freezer manufacturing,Machinery,1
+335224,34,335224,Household Laundry Equipment Manufacturing,Household laundry equipment manufacturing,Machinery,1
+335228,35,335228,Other Major Household Appliance Manufacturing,Other major household appliance manufacturing,Electronics,1
+335311,35,335311,"Power, Distribution, and Specialty Transformer Manufacturing","Power, distribution, and specialty transformer manufacturing",Electronics,1
+335312,35,335312,Motor and Generator Manufacturing,Motor and generator manufacturing,Electronics,1
+335313,35,335313,Switchgear and Switchboard Apparatus Manufacturing,Switchgear and switchboard apparatus manufacturing,Electronics,1
+335314,35,335314,Relay and Industrial Control Manufacturing,Relay and industrial control manufacturing,Electronics,1
+335911,35,335911,Storage Battery Manufacturing,Storage battery manufacturing,Electronics,1
+335912,35,335912,Primary Battery Manufacturing,Primary battery manufacturing,Electronics,1
+335920,35,335921,Fiber Optic Cable Manufacturing,Communication and energy wire and cable manufacturing,Electronics,1
+335920,35,335929,Other Communication and Energy Wire Manufacturing,Communication and energy wire and cable manufacturing,Electronics,1
+335930,35,335931,Current-Carrying Wiring Device Manufacturing,Wiring device manufacturing,Electronics,1
+335930,35,335932,Noncurrent-Carrying Wiring Device Manufacturing,Wiring device manufacturing,Electronics,1
+335991,35,335991,Carbon and Graphite Product Manufacturing,Carbon and graphite product manufacturing,Electronics,1
+335999,35,335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing,All other miscellaneous electrical equipment and component manufacturing,Electronics,1
+336111,36,336111,Automobile Manufacturing,Automobile manufacturing,Motorized vehicles,1
+336112,36,336112,Light Truck and Utility Vehicle Manufacturing,Light truck and utility vehicle manufacturing,Motorized vehicles,1
+336120,36,336120,Heavy Duty Truck Manufacturing,Heavy duty truck manufacturing,Motorized vehicles,1
+336211,34,336211,Motor Vehicle Body Manufacturing,Motor vehicle body manufacturing,Machinery,1
+336212,36,336212,Truck Trailer Manufacturing,Truck trailer manufacturing,Motorized vehicles,1
+336213,36,336213,Motor Home Manufacturing,Motor home manufacturing,Motorized vehicles,1
+336214,36,336214,Travel Trailer and Camper Manufacturing,Travel trailer and camper manufacturing,Motorized vehicles,1
+336310,36,336311,"Carburetor, Piston, Piston Ring, and Valve Manufacturing",Motor vehicle gasoline engine and engine parts manufacturing,Motorized vehicles,1
+336310,36,336312,Gasoline Engine and Engine Parts Manufacturing,Motor vehicle gasoline engine and engine parts manufacturing,Motorized vehicles,1
+336320,35,336321,Vehicular Lighting Equipment Manufacturing,Motor vehicle electrical and electronic equipment manufacturing,Electronics,1
+336320,35,336322,Other Motor Vehicle Electrical and Electronic Equipment Manufacturing,Motor vehicle electrical and electronic equipment manufacturing,Electronics,1
+3363A0,36,336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",Motorized vehicles,1
+3363A0,36,336340,Motor Vehicle Brake System Manufacturing,"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",Motorized vehicles,1
+336350,36,336350,Motor Vehicle Transmission and Power Train Parts Manufacturing,Motor vehicle transmission and power train parts manufacturing,Motorized vehicles,1
+336360,36,336360,Motor Vehicle Seating and Interior Trim Manufacturing,Motor vehicle seating and interior trim manufacturing,Motorized vehicles,1
+336370,36,336370,Motor Vehicle Metal Stamping,Motor vehicle metal stamping,Motorized vehicles,1
+336390,36,336391,Motor Vehicle Air-Conditioning Manufacturing,Other motor vehicle parts manufacturing,Motorized vehicles,1
+336390,36,336399,All Other Motor Vehicle Parts Manufacturing,Other motor vehicle parts manufacturing,Motorized vehicles,1
+336411,37,336411,Aircraft Manufacturing,Aircraft manufacturing,Transport equip.,1
+336412,34,336412,Aircraft Engine and Engine Parts Manufacturing,Aircraft engine and engine parts manufacturing,Machinery,1
+336413,36,336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing,Other aircraft parts and auxiliary equipment manufacturing,Motorized vehicles,1
+336414,37,336414,Guided Missile and Space Vehicle Manufacturing,Guided missile and space vehicle manufacturing,Transport equip.,1
+33641A,34,336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing,Propulsion units and parts for space vehicles and guided missiles,Machinery,0.5
+33641A,36,336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing,Propulsion units and parts for space vehicles and guided missiles,Motorized vehicles,0.5
+336500,36,336510,Railroad Rolling Stock Manufacturing,Railroad rolling stock manufacturing,Motorized vehicles,1
+336611,37,336611,Ship Building and Repairing,Ship building and repairing,Transport equip.,1
+336612,37,336612,Boat Building,Boat building,Transport equip.,1
+336991,29,336991,"Motorcycle, Bicycle, and Parts Manufacturing","Motorcycle, bicycle, and parts manufacturing",Printed prods.,1
+336992,36,336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing","Military armored vehicle, tank, and tank component manufacturing",Motorized vehicles,1
+336999,36,336999,All Other Transportation Equipment Manufacturing,All other transportation equipment manufacturing,Motorized vehicles,1
+337110,39,337110,Wood Kitchen Cabinet and Countertop Manufacturing,Wood kitchen cabinet and countertop manufacturing,Furniture,1
+337121,39,337121,Upholstered Household Furniture Manufacturing,Upholstered household furniture manufacturing,Furniture,1
+337122,39,337122,Nonupholstered Wood Household Furniture Manufacturing,Nonupholstered wood household furniture manufacturing,Furniture,1
+33712A,39,337124,Metal Household Furniture Manufacturing,Other household nonupholstered furniture,Furniture,0.5
+33712A,39,337125,Household Furniture (except Wood and Metal) Manufacturing,Other household nonupholstered furniture,Furniture,0.5
+337127,39,337127,Institutional Furniture Manufacturing,Institutional furniture manufacturing,Furniture,1
+33712A,34,337129,"Wood Television, Radio, and Sewing Machine Cabinet Manufacturing",Other household nonupholstered furniture,Machinery,0.5
+33721A,39,337211,Wood Office Furniture Manufacturing,Office furniture and custom architectural woodwork and millwork manufacturing,Furniture,0.5
+33721A,39,337212,Custom Architectural Woodwork and Millwork Manufacturing,Office furniture and custom architectural woodwork and millwork manufacturing,Furniture,0.5
+33721A,33,337214,Office Furniture (except Wood) Manufacturing,Office furniture and custom architectural woodwork and millwork manufacturing,Articles-base metal,0.5
+337215,39,337215,"Showcase, Partition, Shelving, and Locker Manufacturing","Showcase, partition, shelving, and locker manufacturing",Furniture,1
+337900,39,337910,Mattress Manufacturing,Other furniture related product manufacturing,Furniture,0.5
+337900,33,337920,Blind and Shade Manufacturing,Other furniture related product manufacturing,Articles-base metal,0.5
+339112,38,339112,Surgical and Medical Instrument Manufacturing,Surgical and medical instrument manufacturing,Precision instruments,1
+339113,38,339113,Surgical Appliance and Supplies Manufacturing,Surgical appliance and supplies manufacturing,Precision instruments,1
+339114,21,339114,Dental Equipment and Supplies Manufacturing,Dental equipment and supplies manufacturing,Pharmaceuticals,1
+339115,38,339115,Ophthalmic Goods Manufacturing,Ophthalmic goods manufacturing,Precision instruments,1
+339116,38,339116,Dental Laboratories,Dental laboratories,Precision instruments,1
+339910,40,339911,Jewelry (except Costume) Manufacturing,Jewelry and silverware manufacturing,Misc. mfg. prods.,0.5
+339910,40,339912,Silverware and Hollowware Manufacturing,Jewelry and silverware manufacturing,Misc. mfg. prods.,0.5
+339910,40,339913,Jewelers' Material and Lapidary Work Manufacturing,Jewelry and silverware manufacturing,Misc. mfg. prods.,0.5
+339910,31,339914,Costume Jewelry and Novelty Manufacturing,Jewelry and silverware manufacturing,Nonmetal min. prods.,0.5
+339920,24,339920,Sporting and Athletic Goods Manufacturing,Sporting and athletic goods manufacturing,Plastics/rubber,1
+339930,40,339931,Doll and Stuffed Toy Manufacturing,"Doll, toy, and game manufacturing",Misc. mfg. prods.,1
+339930,40,339932,"Game, Toy, and Children's Vehicle Manufacturing","Doll, toy, and game manufacturing",Misc. mfg. prods.,1
+339940,40,339941,Pen and Mechanical Pencil Manufacturing,Office supplies (except paper) manufacturing,Misc. mfg. prods.,0.5
+339940,40,339942,Lead Pencil and Art Good Manufacturing,Office supplies (except paper) manufacturing,Misc. mfg. prods.,0.5
+339940,40,339943,Marking Device Manufacturing,Office supplies (except paper) manufacturing,Misc. mfg. prods.,0.5
+339940,27,339944,Carbon Paper and Inked Ribbon Manufacturing,Office supplies (except paper) manufacturing,Newsprint/paper,0.5
+339950,40,339950,Sign Manufacturing,Sign manufacturing,Misc. mfg. prods.,1
+339990,24,339991,"Gasket, Packing, and Sealing Device Manufacturing",All other miscellaneous manufacturing,Plastics/rubber,0.25
+339990,33,339992,Musical Instrument Manufacturing,All other miscellaneous manufacturing,Articles-base metal,0.25
+339990,34,339993,"Fastener, Button, Needle, and Pin Manufacturing",All other miscellaneous manufacturing,Machinery,0.25
+339990,40,339994,"Broom, Brush, and Mop Manufacturing",All other miscellaneous manufacturing,Misc. mfg. prods.,0.25
+339990,40,339995,Burial Casket Manufacturing,All other miscellaneous manufacturing,Misc. mfg. prods.,0.25
+339990,40,339999,All Other Miscellaneous Manufacturing,All other miscellaneous manufacturing,Misc. mfg. prods.,0.25
+420000,0,423110,Automobile and Other Motor Vehicle Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423120,Motor Vehicle Supplies and New Parts Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423130,Tire and Tube Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423140,Motor Vehicle Parts (Used) Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423210,Furniture Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423220,Home Furnishing Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423310,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,423390,Other Construction Material Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423410,Photographic Equipment and Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423420,Office Equipment Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423430,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423440,Other Commercial Equipment Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,423460,Ophthalmic Goods Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423490,Other Professional Equipment and Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423510,Metal Service Centers and Other Metal Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423520,Coal and Other Mineral and Ore Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,423620,"Electrical and Electronic Appliance, Television, and Radio Set Merchant Wholesalers - except electric water heaters",Wholesale trade,NA,0
+420000,0,423690,Other Electronic Parts and Equipment Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423710,Hardware Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423720,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers - gas household appliances,Wholesale trade,NA,0
+420000,0,423730,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423740,Refrigeration Equipment and Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423810,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423820,Farm and Garden Machinery and Equipment Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423830,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423840,Industrial Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423850,Service Establishment Equipment and Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423860,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423910,Sporting and Recreational Goods and Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423920,Toy and Hobby Goods and Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423930,Recyclable Material Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,423940,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,423990,Other Miscellaneous Durable Goods Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424110,Printing and Writing Paper Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424120,Stationery and Office Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424130,Industrial and Personal Service Paper Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424210,Drugs and Druggists' Sundries Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424310,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,424320,Men's and Boys' Clothing and Furnishings Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424330,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,424340,Footwear Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424410,General Line Grocery Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424420,Packaged Frozen Food Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424430,Dairy Product (except Dried or Canned) Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424440,Poultry and Poultry Product Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424450,Confectionery Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424460,Fish and Seafood Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424470,Meat and Meat Product Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424480,Fresh Fruit and Vegetable Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424490,Other Grocery and Related Products Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424510,Grain and Field Bean Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424520,Livestock Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424590,Other Farm Product Raw Material Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424610,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424690,Other Chemical and Allied Products Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424710,Petroleum Bulk Stations and Terminals,Wholesale trade,NA,0
+420000,0,424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),Wholesale trade,NA,0
+420000,0,424810,Beer and Ale Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424820,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424910,Farm Supplies Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424920,"Book, Periodical, and Newspaper Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,424930,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,424940,Tobacco and Tobacco Product Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,424950,"Paint, Varnish, and Supplies Merchant Wholesalers",Wholesale trade,NA,0
+420000,0,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers,Wholesale trade,NA,0
+420000,0,425110,Business to Business Electronic Markets,Wholesale trade,NA,0
+420000,0,425120,Wholesale Trade Agents and Brokers,Wholesale trade,NA,0
+441000,0,441110,New Car Dealers,Motor vehicle and parts dealers,NA,0
+441000,0,441120,Used Car Dealers,Motor vehicle and parts dealers,NA,0
+441000,0,441210,Recreational Vehicle Dealers,Motor vehicle and parts dealers,NA,0
+441000,0,441221,"Motorcycle, ATV, and Personal Watercraft Dealers",Motor vehicle and parts dealers,NA,0
+441000,0,441222,Boat Dealers,Motor vehicle and parts dealers,NA,0
+441000,0,441229,All Other Motor Vehicle Dealers,Motor vehicle and parts dealers,NA,0
+441000,0,441310,Automotive Parts and Accessories Stores,Motor vehicle and parts dealers,NA,0
+441000,0,441320,Tire Dealers,Motor vehicle and parts dealers,NA,0
+4A0000,0,442110,Furniture Stores,Other retail,NA,0
+4A0000,0,442210,Floor Covering Stores,Other retail,NA,0
+4A0000,0,442291,Window Treatment Stores,Other retail,NA,0
+4A0000,0,442299,All Other Home Furnishings Stores,Other retail,NA,0
+4A0000,0,443111,Household Appliance Stores,Other retail,NA,0
+4A0000,0,443112,"Radio, Television, and Other Electronics Stores",Other retail,NA,0
+4A0000,0,443120,Computer and Software Stores,Other retail,NA,0
+4A0000,0,443130,Camera and Photographic Supplies Stores,Other retail,NA,0
+4A0000,0,444110,Home Centers,Other retail,NA,0
+4A0000,0,444120,Paint and Wallpaper Stores,Other retail,NA,0
+4A0000,0,444130,Hardware Stores,Other retail,NA,0
+4A0000,0,444190,Other Building Material Dealers,Other retail,NA,0
+4A0000,0,444210,Outdoor Power Equipment Stores,Other retail,NA,0
+4A0000,0,444220,"Nursery, Garden Center, and Farm Supply Stores",Other retail,NA,0
+445000,0,445110,Supermarkets and Other Grocery (except Convenience) Stores,Food and beverage stores,NA,0
+445000,0,445120,Convenience Stores,Food and beverage stores,NA,0
+445000,0,445210,Meat Markets,Food and beverage stores,NA,0
+445000,0,445220,Fish and Seafood Markets,Food and beverage stores,NA,0
+445000,0,445230,Fruit and Vegetable Markets,Food and beverage stores,NA,0
+445000,0,445291,Baked Goods Stores,Food and beverage stores,NA,0
+445000,0,445292,Confectionery and Nut Stores,Food and beverage stores,NA,0
+445000,0,445299,All Other Specialty Food Stores,Food and beverage stores,NA,0
+445000,0,445310,"Beer, Wine, and Liquor Stores",Food and beverage stores,NA,0
+4A0000,0,446110,Pharmacies and Drug Stores,Other retail,NA,0
+4A0000,0,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",Other retail,NA,0
+4A0000,0,446130,Optical Goods Stores,Other retail,NA,0
+4A0000,0,446191,Food (Health) Supplement Stores,Other retail,NA,0
+4A0000,0,446199,All Other Health and Personal Care Stores,Other retail,NA,0
+4A0000,0,447110,Gasoline Stations with Convenience Stores,Other retail,NA,0
+4A0000,0,447190,Other Gasoline Stations,Other retail,NA,0
+4A0000,0,448110,Men's Clothing Stores,Other retail,NA,0
+4A0000,0,448120,Women's Clothing Stores,Other retail,NA,0
+4A0000,0,448130,Children's and Infants' Clothing Stores,Other retail,NA,0
+4A0000,0,448140,Family Clothing Stores,Other retail,NA,0
+4A0000,0,448150,Clothing Accessories Stores,Other retail,NA,0
+4A0000,0,448190,Other Clothing Stores,Other retail,NA,0
+4A0000,0,448210,Shoe Stores,Other retail,NA,0
+4A0000,0,448310,Jewelry Stores,Other retail,NA,0
+4A0000,0,448320,Luggage and Leather Goods Stores,Other retail,NA,0
+4A0000,0,451110,Sporting Goods Stores,Other retail,NA,0
+4A0000,0,451120,"Hobby, Toy, and Game Stores",Other retail,NA,0
+4A0000,0,451130,"Sewing, Needlework, and Piece Goods Stores",Other retail,NA,0
+4A0000,0,451140,Musical Instrument and Supplies Stores,Other retail,NA,0
+4A0000,0,451211,Book Stores,Other retail,NA,0
+4A0000,0,451212,News Dealers and Newsstands,Other retail,NA,0
+4A0000,0,451220,"Prerecorded Tape, Compact Disc, and Record Stores",Other retail,NA,0
+452000,0,452111,Department Stores (except Discount Department Stores),General merchandise stores,NA,0
+452000,0,452112,Discount Department Stores,General merchandise stores,NA,0
+452000,0,452910,Warehouse Clubs and Supercenters,General merchandise stores,NA,0
+452000,0,452990,All Other General Merchandise Stores,General merchandise stores,NA,0
+4A0000,0,453110,Florists,Other retail,NA,0
+4A0000,0,453210,Office Supplies and Stationery Stores,Other retail,NA,0
+4A0000,0,453220,"Gift, Novelty, and Souvenir Stores",Other retail,NA,0
+4A0000,0,453310,Used Merchandise Stores,Other retail,NA,0
+4A0000,0,453910,Pet and Pet Supplies Stores,Other retail,NA,0
+4A0000,0,453920,Art Dealers,Other retail,NA,0
+4A0000,0,453930,Manufactured (Mobile) Home Dealers,Other retail,NA,0
+4A0000,0,453991,Tobacco Stores,Other retail,NA,0
+4A0000,0,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),Other retail,NA,0
+4A0000,0,454111,Electronic Shopping,Other retail,NA,0
+4A0000,0,454112,Electronic Auctions,Other retail,NA,0
+4A0000,0,454113,Mail-Order Houses,Other retail,NA,0
+4A0000,0,454210,Vending Machine Operators,Other retail,NA,0
+4A0000,0,454311,Heating Oil Dealers,Other retail,NA,0
+4A0000,0,454312,Liquefied Petroleum Gas (Bottled Gas) Dealers,Other retail,NA,0
+4A0000,0,454319,Other Fuel Dealers,Other retail,NA,0
+4A0000,0,454390,Other Direct Selling Establishments,Other retail,NA,0
+481000,0,481111,Scheduled Passenger Air Transportation,Air transportation,NA,0
+481000,0,481112,Scheduled Freight Air Transportation,Air transportation,NA,0
+481000,0,481211,Nonscheduled Chartered Passenger Air Transportation,Air transportation,NA,0
+481000,0,481212,Nonscheduled Chartered Freight Air Transportation,Air transportation,NA,0
+481000,0,481219,Other Nonscheduled Air Transportation,Air transportation,NA,0
+482000,0,482111,Line-Haul Railroads,Rail transportation,NA,0
+482000,0,482112,Short Line Railroads,Rail transportation,NA,0
+483000,0,483111,Deep Sea Freight Transportation,Water transportation,NA,0
+483000,0,483112,Deep Sea Passenger Transportation,Water transportation,NA,0
+483000,0,483113,Coastal and Great Lakes Freight Transportation,Water transportation,NA,0
+483000,0,483114,Coastal and Great Lakes Passenger Transportation,Water transportation,NA,0
+483000,0,483211,Inland Water Freight Transportation,Water transportation,NA,0
+483000,0,483212,Inland Water Passenger Transportation,Water transportation,NA,0
+484000,0,484110,"General Freight Trucking, Local",Truck transportation,NA,0
+484000,0,484121,"General Freight Trucking, Long-Distance, Truckload",Truck transportation,NA,0
+484000,0,484122,"General Freight Trucking, Long-Distance, Less Than Truckload",Truck transportation,NA,0
+484000,0,484210,Used Household and Office Goods Moving,Truck transportation,NA,0
+484000,0,484220,"Specialized Freight (except Used Goods) Trucking, Local",Truck transportation,NA,0
+484000,0,484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance",Truck transportation,NA,0
+485000,0,485111,Mixed Mode Transit Systems,Transit and ground passenger transportation,NA,0
+485000,0,485112,Commuter Rail Systems,Transit and ground passenger transportation,NA,0
+485000,0,485113,Bus and Other Motor Vehicle Transit Systems,Transit and ground passenger transportation,NA,0
+485000,0,485119,Other Urban Transit Systems,Transit and ground passenger transportation,NA,0
+485000,0,485210,Interurban and Rural Bus Transportation,Transit and ground passenger transportation,NA,0
+485000,0,485310,Taxi Service,Transit and ground passenger transportation,NA,0
+485000,0,485320,Limousine Service,Transit and ground passenger transportation,NA,0
+485000,0,485410,School and Employee Bus Transportation,Transit and ground passenger transportation,NA,0
+485000,0,485510,Charter Bus Industry,Transit and ground passenger transportation,NA,0
+485000,0,485991,Special Needs Transportation,Transit and ground passenger transportation,NA,0
+485000,0,485999,All Other Transit and Ground Passenger Transportation,Transit and ground passenger transportation,NA,0
+486000,0,486110,Pipeline Transportation of Crude Oil,Pipeline transportation,NA,0
+486000,0,486210,Pipeline Transportation of Natural Gas,Pipeline transportation,NA,0
+486000,0,486910,Pipeline Transportation of Refined Petroleum Products,Pipeline transportation,NA,0
+486000,0,486990,All Other Pipeline Transportation,Pipeline transportation,NA,0
+48A000,0,487110,"Scenic and Sightseeing Transportation, Land",Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,487210,"Scenic and Sightseeing Transportation, Water",Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,487990,"Scenic and Sightseeing Transportation, Other",Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488111,Air Traffic Control,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488119,Other Airport Operations,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488190,Other Support Activities for Air Transportation,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488210,Support Activities for Rail Transportation,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488310,Port and Harbor Operations,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488320,Marine Cargo Handling,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488330,Navigational Services to Shipping,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488390,Other Support Activities for Water Transportation,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488410,Motor Vehicle Towing,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488490,Other Support Activities for Road Transportation,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488510,Freight Transportation Arrangement,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488991,Packing and Crating,Scenic and sightseeing transportation and support activities for transportation,NA,0
+48A000,0,488999,All Other Support Activities for Transportation,Scenic and sightseeing transportation and support activities for transportation,NA,0
+491000,0,491110,Postal Service,Postal service,NA,0
+492000,0,492110,Couriers and Express Delivery Services,Couriers and messengers,NA,0
+492000,0,492210,Local Messengers and Local Delivery,Couriers and messengers,NA,0
+492000,0,493110,General Warehousing and Storage,Couriers and messengers,NA,0
+492000,0,493120,Refrigerated Warehousing and Storage,Couriers and messengers,NA,0
+492000,0,493130,Farm Product Warehousing and Storage,Couriers and messengers,NA,0
+492000,0,493190,Other Warehousing and Storage,Couriers and messengers,NA,0
+511110,29,511110,Newspaper Publishers,Newspaper publishers,Printed prods.,1
+511120,29,511120,Periodical Publishers,Periodical Publishers,Printed prods.,1
+511130,29,511130,Book Publishers,Book publishers,Printed prods.,1
+5111A0,29,511140,Directory and Mailing List Publishers,"Directory, mailing list, and other publishers",Printed prods.,1
+5111A0,29,511191,Greeting Card Publishers,"Directory, mailing list, and other publishers",Printed prods.,1
+5111A0,29,511199,All Other Publishers,"Directory, mailing list, and other publishers",Printed prods.,1
+511200,0,511210,Software Publishers,Software publishers,NA,0
+512100,0,512110,Motion Picture and Video Production,Motion picture and video industries,NA,0
+512100,0,512120,Motion Picture and Video Distribution,Motion picture and video industries,NA,0
+512100,0,512131,Motion Picture Theaters (except Drive-Ins),Motion picture and video industries,NA,0
+512100,0,512132,Drive-In Motion Picture Theaters,Motion picture and video industries,NA,0
+512100,0,512191,Teleproduction and Other Postproduction Services,Motion picture and video industries,NA,0
+512100,0,512199,Other Motion Picture and Video Industries,Motion picture and video industries,NA,0
+512200,0,512210,Record Production,Sound recording industries,NA,0
+512200,0,512220,Integrated Record Production/Distribution,Sound recording industries,NA,0
+512200,0,512230,Music Publishers,Sound recording industries,NA,0
+512200,0,512240,Sound Recording Studios,Sound recording industries,NA,0
+512200,0,512290,Other Sound Recording Industries,Sound recording industries,NA,0
+515100,0,515111,Radio Networks,Radio and television broadcasting,NA,0
+515100,0,515112,Radio Stations,Radio and television broadcasting,NA,0
+515100,0,515120,Television Broadcasting,Radio and television broadcasting,NA,0
+515200,0,515210,Cable and Other Subscription Programming,Cable and other subscription programming,NA,0
+517110,0,517110,Wired Telecommunications Carriers,Wired telecommunications carriers,NA,0
+517210,0,517210,Wireless Telecommunications Carriers (except Satellite),Wireless telecommunications carriers (except satellite),NA,0
+517A00,0,517410,Satellite Telecommunications,"Satellite, telecommunications resellers, and all other telecommunications",NA,0
+517A00,0,517911,Telecommunications Resellers,"Satellite, telecommunications resellers, and all other telecommunications",NA,0
+517A00,0,517919,All Other Telecommunications,"Satellite, telecommunications resellers, and all other telecommunications",NA,0
+518200,0,518210,"Data Processing, Hosting, and Related Services","Data processing, hosting, and related services",NA,0
+5191A0,0,519110,News Syndicates,"News syndicates, libraries, archives and all other information services",NA,0
+5191A0,0,519120,Libraries and Archives,"News syndicates, libraries, archives and all other information services",NA,0
+519130,0,519130,Internet Publishing and Broadcasting and Web Search Portals,Internet publishing and broadcasting and Web search portals,NA,0
+5191A0,0,519190,All Other Information Services,"News syndicates, libraries, archives and all other information services",NA,0
+52A000,0,521110,Monetary Authorities-Central Bank,Monetary authorities and depository credit intermediation,NA,0
+52A000,0,522110,Commercial Banking,Monetary authorities and depository credit intermediation,NA,0
+52A000,0,522120,Savings Institutions,Monetary authorities and depository credit intermediation,NA,0
+52A000,0,522130,Credit Unions,Monetary authorities and depository credit intermediation,NA,0
+52A000,0,522190,Other Depository Credit Intermediation,Monetary authorities and depository credit intermediation,NA,0
+522A00,0,522210,Credit Card Issuing,Nondepository credit intermediation and related activities,NA,0
+522A00,0,522220,Sales Financing,Nondepository credit intermediation and related activities,NA,0
+522A00,0,522291,Consumer Lending,Nondepository credit intermediation and related activities,NA,0
+522A00,0,522292,Real Estate Credit,Nondepository credit intermediation and related activities,NA,0
+522A00,0,522293,International Trade Financing,Nondepository credit intermediation and related activities,NA,0
+522A00,0,522294,Secondary Market Financing,Nondepository credit intermediation and related activities,NA,0
+522A00,0,522298,All Other Nondepository Credit Intermediation,Nondepository credit intermediation and related activities,NA,0
+522A00,0,522310,Mortgage and Nonmortgage Loan Brokers,Nondepository credit intermediation and related activities,NA,0
+522A00,0,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",Nondepository credit intermediation and related activities,NA,0
+522A00,0,522390,Other Activities Related to Credit Intermediation,Nondepository credit intermediation and related activities,NA,0
+523A00,0,523110,Investment Banking and Securities Dealing,Securities and commodity contracts intermediation and brokerage,NA,0
+523A00,0,523120,Securities Brokerage,Securities and commodity contracts intermediation and brokerage,NA,0
+523A00,0,523130,Commodity Contracts Dealing,Securities and commodity contracts intermediation and brokerage,NA,0
+523A00,0,523140,Commodity Contracts Brokerage,Securities and commodity contracts intermediation and brokerage,NA,0
+523A00,0,523210,Securities and Commodity Exchanges,Securities and commodity contracts intermediation and brokerage,NA,0
+523900,0,523910,Miscellaneous Intermediation,Other financial investment activities,NA,0
+523900,0,523920,Portfolio Management,Other financial investment activities,NA,0
+523900,0,523930,Investment Advice,Other financial investment activities,NA,0
+523900,0,523991,"Trust, Fiduciary, and Custody Activities",Other financial investment activities,NA,0
+523900,0,523999,Miscellaneous Financial Investment Activities,Other financial investment activities,NA,0
+524100,0,524113,Direct Life Insurance Carriers,Insurance carriers,NA,0
+524100,0,524114,Direct Health and Medical Insurance Carriers,Insurance carriers,NA,0
+524100,0,524126,Direct Property and Casualty Insurance Carriers,Insurance carriers,NA,0
+524100,0,524127,Direct Title Insurance Carriers,Insurance carriers,NA,0
+524100,0,524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers",Insurance carriers,NA,0
+524100,0,524130,Reinsurance Carriers,Insurance carriers,NA,0
+524200,0,524210,Insurance Agencies and Brokerages,"Insurance agencies, brokerages, and related activities",NA,0
+524200,0,524291,Claims Adjusting,"Insurance agencies, brokerages, and related activities",NA,0
+524200,0,524292,Third Party Administration of Insurance and Pension Funds,"Insurance agencies, brokerages, and related activities",NA,0
+524200,0,524298,All Other Insurance Related Activities,"Insurance agencies, brokerages, and related activities",NA,0
+525000,0,525110,Pension Funds,"Funds, trusts, and other financial vehicles",NA,0
+525000,0,525120,Health and Welfare Funds,"Funds, trusts, and other financial vehicles",NA,0
+525000,0,525190,Other Insurance Funds,"Funds, trusts, and other financial vehicles",NA,0
+525000,0,525910,Open-End Investment Funds,"Funds, trusts, and other financial vehicles",NA,0
+525000,0,525920,"Trusts, Estates, and Agency Accounts","Funds, trusts, and other financial vehicles",NA,0
+525000,0,525990,Other Financial Vehicles,"Funds, trusts, and other financial vehicles",NA,0
+531000,0,531110,Lessors of Residential Buildings and Dwellings,Real estate,NA,0
+531000,0,531120,Lessors of Nonresidential Buildings (except Miniwarehouses),Real estate,NA,0
+531000,0,531130,Lessors of Miniwarehouses and Self-Storage Units,Real estate,NA,0
+531000,0,531190,Lessors of Other Real Estate Property,Real estate,NA,0
+531000,0,531210,Offices of Real Estate Agents and Brokers,Real estate,NA,0
+531000,0,531311,Residential Property Managers,Real estate,NA,0
+531000,0,531312,Nonresidential Property Managers,Real estate,NA,0
+531000,0,531320,Offices of Real Estate Appraisers,Real estate,NA,0
+531000,0,531390,Other Activities Related to Real Estate,Real estate,NA,0
+532100,0,532111,Passenger Car Rental,Automotive equipment rental and leasing,NA,0
+532100,0,532112,Passenger Car Leasing,Automotive equipment rental and leasing,NA,0
+532100,0,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",Automotive equipment rental and leasing,NA,0
+532A00,0,532210,Consumer Electronics and Appliances Rental,Consumer goods and general rental centers,NA,0
+532A00,0,532220,Formal Wear and Costume Rental,Consumer goods and general rental centers,NA,0
+532A00,0,532230,Video Tape and Disc Rental,Consumer goods and general rental centers,NA,0
+532A00,0,532291,Home Health Equipment Rental,Consumer goods and general rental centers,NA,0
+532A00,0,532292,Recreational Goods Rental,Consumer goods and general rental centers,NA,0
+532A00,0,532299,All Other Consumer Goods Rental,Consumer goods and general rental centers,NA,0
+532A00,0,532310,General Rental Centers,Consumer goods and general rental centers,NA,0
+532400,0,532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",Commercial and industrial machinery and equipment rental and leasing,NA,0
+532400,0,532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",Commercial and industrial machinery and equipment rental and leasing,NA,0
+532400,0,532420,Office Machinery and Equipment Rental and Leasing,Commercial and industrial machinery and equipment rental and leasing,NA,0
+532400,0,532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,Commercial and industrial machinery and equipment rental and leasing,NA,0
+533000,0,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),Lessors of nonfinancial intangible assets,NA,0
+541100,0,541110,Offices of Lawyers,Legal services,NA,0
+541100,0,541120,Offices of Notaries,Legal services,NA,0
+541100,0,541191,Title Abstract and Settlement Offices,Legal services,NA,0
+541100,0,541199,All Other Legal Services,Legal services,NA,0
+541200,0,541211,Offices of Certified Public Accountants,"Accounting, tax preparation, bookkeeping, and payroll services",NA,0
+541200,0,541213,Tax Preparation Services,"Accounting, tax preparation, bookkeeping, and payroll services",NA,0
+541200,0,541214,Payroll Services,"Accounting, tax preparation, bookkeeping, and payroll services",NA,0
+541200,0,541219,Other Accounting Services,"Accounting, tax preparation, bookkeeping, and payroll services",NA,0
+541300,0,541310,Architectural Services,"Architectural, engineering, and related services",NA,0
+541300,0,541320,Landscape Architectural Services,"Architectural, engineering, and related services",NA,0
+541300,0,541330,Engineering Services,"Architectural, engineering, and related services",NA,0
+541300,0,541340,Drafting Services,"Architectural, engineering, and related services",NA,0
+541300,0,541350,Building Inspection Services,"Architectural, engineering, and related services",NA,0
+541300,0,541360,Geophysical Surveying and Mapping Services,"Architectural, engineering, and related services",NA,0
+541300,0,541370,Surveying and Mapping (except Geophysical) Services,"Architectural, engineering, and related services",NA,0
+541300,0,541380,Testing Laboratories,"Architectural, engineering, and related services",NA,0
+541400,0,541410,Interior Design Services,Specialized design services,NA,0
+541400,0,541420,Industrial Design Services,Specialized design services,NA,0
+541400,0,541430,Graphic Design Services,Specialized design services,NA,0
+541400,0,541490,Other Specialized Design Services,Specialized design services,NA,0
+541511,0,541511,Custom Computer Programming Services,Custom computer programming services,NA,0
+541512,0,541512,Computer Systems Design Services,Computer systems design services,NA,0
+54151A,0,541513,Computer Facilities Management Services,"Other computer related services, including facilities management",NA,0
+54151A,0,541519,Other Computer Related Services,"Other computer related services, including facilities management",NA,0
+541610,0,541611,Administrative Management and General Management Consulting Services,Management consulting services,NA,0
+541610,0,541612,Human Resources Consulting Services,Management consulting services,NA,0
+541610,0,541613,Marketing Consulting Services,Management consulting services,NA,0
+541610,0,541614,"Process, Physical Distribution, and Logistics Consulting Services",Management consulting services,NA,0
+541610,0,541618,Other Management Consulting Services,Management consulting services,NA,0
+5416A0,0,541620,Environmental Consulting Services,Environmental and other technical consulting services,NA,0
+5416A0,0,541690,Other Scientific and Technical Consulting Services,Environmental and other technical consulting services,NA,0
+541700,0,541711,Research and Development in Biotechnology,Scientific research and development services,NA,0
+541700,0,541712,"Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)",Scientific research and development services,NA,0
+541700,0,541720,Research and Development in the Social Sciences and Humanities,Scientific research and development services,NA,0
+541800,0,541810,Advertising Agencies,"Advertising, public relations, and related services",NA,0
+541800,0,541820,Public Relations Agencies,"Advertising, public relations, and related services",NA,0
+541800,0,541830,Media Buying Agencies,"Advertising, public relations, and related services",NA,0
+541800,0,541840,Media Representatives,"Advertising, public relations, and related services",NA,0
+541800,0,541850,Display Advertising,"Advertising, public relations, and related services",NA,0
+541800,0,541860,Direct Mail Advertising,"Advertising, public relations, and related services",NA,0
+541800,0,541870,Advertising Material Distribution Services,"Advertising, public relations, and related services",NA,0
+541800,0,541890,Other Services Related to Advertising,"Advertising, public relations, and related services",NA,0
+5419A0,0,541910,Marketing Research and Public Opinion Polling,"Marketing research and all other miscellaneous professional, scientific, and technical services",NA,0
+541920,0,541921,"Photography Studios, Portrait",Photographic services,NA,0
+541920,0,541922,Commercial Photography,Photographic services,NA,0
+5419A0,0,541930,Translation and Interpretation Services,"Marketing research and all other miscellaneous professional, scientific, and technical services",NA,0
+541940,0,541940,Veterinary Services,Veterinary services,NA,0
+5419A0,0,541990,"All Other Professional, Scientific, and Technical Services","Marketing research and all other miscellaneous professional, scientific, and technical services",NA,0
+550000,0,551111,Offices of Bank Holding Companies,Management of companies and enterprises,NA,0
+550000,0,551112,Offices of Other Holding Companies,Management of companies and enterprises,NA,0
+550000,0,551114,"Corporate, Subsidiary, and Regional Managing Offices",Management of companies and enterprises,NA,0
+561100,0,561110,Office Administrative Services,Office administrative services,NA,0
+561200,0,561210,Facilities Support Services,Facilities support services,NA,0
+561300,0,561311,Employment Placement Agencies,Employment services,NA,0
+561300,0,561312,Executive Search Services,Employment services,NA,0
+561300,0,561320,Temporary Help Services,Employment services,NA,0
+561300,0,561330,Professional Employer Organizations,Employment services,NA,0
+561400,0,561410,Document Preparation Services,Business support services,NA,0
+561400,0,561421,Telephone Answering Services,Business support services,NA,0
+561400,0,561422,Telemarketing Bureaus and Other Contact Centers,Business support services,NA,0
+561400,0,561431,Private Mail Centers,Business support services,NA,0
+561400,0,561439,Other Business Service Centers (including Copy Shops),Business support services,NA,0
+561400,0,561440,Collection Agencies,Business support services,NA,0
+561400,0,561450,Credit Bureaus,Business support services,NA,0
+561400,0,561491,Repossession Services,Business support services,NA,0
+561400,0,561492,Court Reporting and Stenotype Services,Business support services,NA,0
+561400,0,561499,All Other Business Support Services,Business support services,NA,0
+561500,0,561510,Travel Agencies,Travel arrangement and reservation services,NA,0
+561500,0,561520,Tour Operators,Travel arrangement and reservation services,NA,0
+561500,0,561591,Convention and Visitors Bureaus,Travel arrangement and reservation services,NA,0
+561500,0,561599,All Other Travel Arrangement and Reservation Services,Travel arrangement and reservation services,NA,0
+561600,0,561611,Investigation Services,Investigation and security services,NA,0
+561600,0,561612,Security Guards and Patrol Services,Investigation and security services,NA,0
+561600,0,561613,Armored Car Services,Investigation and security services,NA,0
+561600,0,561621,Security Systems Services (except Locksmiths),Investigation and security services,NA,0
+561600,0,561622,Locksmiths,Investigation and security services,NA,0
+561700,0,561710,Exterminating and Pest Control Services,Services to buildings and dwellings,NA,0
+561700,0,561720,Janitorial Services,Services to buildings and dwellings,NA,0
+561700,0,561730,Landscaping Services,Services to buildings and dwellings,NA,0
+561700,0,561740,Carpet and Upholstery Cleaning Services,Services to buildings and dwellings,NA,0
+561700,0,561790,Other Services to Buildings and Dwellings,Services to buildings and dwellings,NA,0
+561900,0,561910,Packaging and Labeling Services,Other support services,NA,0
+561900,0,561920,Convention and Trade Show Organizers,Other support services,NA,0
+561900,0,561990,All Other Support Services,Other support services,NA,0
+562000,0,562111,Solid Waste Collection,Waste management and remediation services,NA,0
+562000,0,562112,Hazardous Waste Collection,Waste management and remediation services,NA,0
+562000,0,562119,Other Waste Collection,Waste management and remediation services,NA,0
+562000,0,562211,Hazardous Waste Treatment and Disposal,Waste management and remediation services,NA,0
+562000,0,562212,Solid Waste Landfill,Waste management and remediation services,NA,0
+562000,0,562213,Solid Waste Combustors and Incinerators,Waste management and remediation services,NA,0
+562000,0,562219,Other Nonhazardous Waste Treatment and Disposal,Waste management and remediation services,NA,0
+562000,0,562910,Remediation Services,Waste management and remediation services,NA,0
+562000,0,562920,Materials Recovery Facilities,Waste management and remediation services,NA,0
+562000,0,562991,Septic Tank and Related Services,Waste management and remediation services,NA,0
+562000,0,562998,All Other Miscellaneous Waste Management Services,Waste management and remediation services,NA,0
+611100,0,611110,Elementary and Secondary Schools,Elementary and secondary schools,NA,0
+611A00,0,611210,Junior Colleges,"Junior colleges, colleges, universities, and professional schools",NA,0
+611A00,0,611310,"Colleges, Universities, and Professional Schools","Junior colleges, colleges, universities, and professional schools",NA,0
+611B00,0,611410,Business and Secretarial Schools,Other educational services,NA,0
+611B00,0,611420,Computer Training,Other educational services,NA,0
+611B00,0,611430,Professional and Management Development Training,Other educational services,NA,0
+611B00,0,611511,Cosmetology and Barber Schools,Other educational services,NA,0
+611B00,0,611512,Flight Training,Other educational services,NA,0
+611B00,0,611513,Apprenticeship Training,Other educational services,NA,0
+611B00,0,611519,Other Technical and Trade Schools,Other educational services,NA,0
+611B00,0,611610,Fine Arts Schools,Other educational services,NA,0
+611B00,0,611620,Sports and Recreation Instruction,Other educational services,NA,0
+611B00,0,611630,Language Schools,Other educational services,NA,0
+611B00,0,611691,Exam Preparation and Tutoring,Other educational services,NA,0
+611B00,0,611692,Automobile Driving Schools,Other educational services,NA,0
+611B00,0,611699,All Other Miscellaneous Schools and Instruction,Other educational services,NA,0
+611B00,0,611710,Educational Support Services,Other educational services,NA,0
+621100,0,621111,Offices of Physicians (except Mental Health Specialists),Offices of physicians,NA,0
+621100,0,621112,"Offices of Physicians, Mental Health Specialists",Offices of physicians,NA,0
+621200,0,621210,Offices of Dentists,Offices of dentists,NA,0
+621300,0,621310,Offices of Chiropractors,Offices of other health practitioners,NA,0
+621300,0,621320,Offices of Optometrists,Offices of other health practitioners,NA,0
+621300,0,621330,Offices of Mental Health Practitioners (except Physicians),Offices of other health practitioners,NA,0
+621300,0,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",Offices of other health practitioners,NA,0
+621300,0,621391,Offices of Podiatrists,Offices of other health practitioners,NA,0
+621300,0,621399,Offices of All Other Miscellaneous Health Practitioners,Offices of other health practitioners,NA,0
+621400,0,621410,Family Planning Centers,Outpatient care centers,NA,0
+621400,0,621420,Outpatient Mental Health and Substance Abuse Centers,Outpatient care centers,NA,0
+621400,0,621491,HMO Medical Centers,Outpatient care centers,NA,0
+621400,0,621492,Kidney Dialysis Centers,Outpatient care centers,NA,0
+621400,0,621493,Freestanding Ambulatory Surgical and Emergency Centers,Outpatient care centers,NA,0
+621400,0,621498,All Other Outpatient Care Centers,Outpatient care centers,NA,0
+621500,0,621511,Medical Laboratories,Medical and diagnostic laboratories,NA,0
+621500,0,621512,Diagnostic Imaging Centers,Medical and diagnostic laboratories,NA,0
+621600,0,621610,Home Health Care Services,Home health care services,NA,0
+621900,0,621910,Ambulance Services,Other ambulatory health care services,NA,0
+621900,0,621991,Blood and Organ Banks,Other ambulatory health care services,NA,0
+621900,0,621999,All Other Miscellaneous Ambulatory Health Care Services,Other ambulatory health care services,NA,0
+622000,0,622110,General Medical and Surgical Hospitals,Hospitals,NA,0
+622000,0,622210,Psychiatric and Substance Abuse Hospitals,Hospitals,NA,0
+622000,0,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,Hospitals,NA,0
+623A00,0,623110,Nursing Care Facilities,Nursing and community care facilities,NA,0
+623B00,0,623210,Residential Mental Retardation Facilities,"Residential mental retardation, mental health, substance abuse and other facilities",NA,0
+623B00,0,623220,Residential Mental Health and Substance Abuse Facilities,"Residential mental retardation, mental health, substance abuse and other facilities",NA,0
+623A00,0,623311,Continuing Care Retirement Communities,Nursing and community care facilities,NA,0
+623A00,0,623312,Homes for the Elderly,Nursing and community care facilities,NA,0
+623B00,0,623990,Other Residential Care Facilities,"Residential mental retardation, mental health, substance abuse and other facilities",NA,0
+624100,0,624110,Child and Youth Services,Individual and family services,NA,0
+624100,0,624120,Services for the Elderly and Persons with Disabilities,Individual and family services,NA,0
+624100,0,624190,Other Individual and Family Services,Individual and family services,NA,0
+624A00,0,624210,Community Food Services,"Community food, housing, and other relief services, including rehabilitation services",NA,0
+624A00,0,624221,Temporary Shelters,"Community food, housing, and other relief services, including rehabilitation services",NA,0
+624A00,0,624229,Other Community Housing Services,"Community food, housing, and other relief services, including rehabilitation services",NA,0
+624A00,0,624230,Emergency and Other Relief Services,"Community food, housing, and other relief services, including rehabilitation services",NA,0
+624A00,0,624310,Vocational Rehabilitation Services,"Community food, housing, and other relief services, including rehabilitation services",NA,0
+624400,0,624410,Child Day Care Services,Child day care services,NA,0
+711100,0,711110,Theater Companies and Dinner Theaters,Performing arts companies,NA,0
+711100,0,711120,Dance Companies,Performing arts companies,NA,0
+711100,0,711130,Musical Groups and Artists,Performing arts companies,NA,0
+711100,0,711190,Other Performing Arts Companies,Performing arts companies,NA,0
+711200,0,711211,Sports Teams and Clubs,Spectator sports,NA,0
+711200,0,711212,Racetracks,Spectator sports,NA,0
+711200,0,711219,Other Spectator Sports,Spectator sports,NA,0
+711A00,0,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",Promoters of performing arts and sports and agents for public figures,NA,0
+711A00,0,711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",Promoters of performing arts and sports and agents for public figures,NA,0
+711A00,0,711410,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",Promoters of performing arts and sports and agents for public figures,NA,0
+711500,0,711510,"Independent Artists, Writers, and Performers","Independent artists, writers, and performers",NA,0
+712000,0,712110,Museums,"Museums, historical sites, zoos, and parks",NA,0
+712000,0,712120,Historical Sites,"Museums, historical sites, zoos, and parks",NA,0
+712000,0,712130,Zoos and Botanical Gardens,"Museums, historical sites, zoos, and parks",NA,0
+712000,0,712190,Nature Parks and Other Similar Institutions,"Museums, historical sites, zoos, and parks",NA,0
+713100,0,713110,Amusement and Theme Parks,Amusement parks and arcades,NA,0
+713100,0,713120,Amusement Arcades,Amusement parks and arcades,NA,0
+713200,0,713210,Casinos (except Casino Hotels),Gambling industries (except casino hotels),NA,0
+713200,0,713290,Other Gambling Industries,Gambling industries (except casino hotels),NA,0
+713900,0,713910,Golf Courses and Country Clubs,Other amusement and recreation industries,NA,0
+713900,0,713920,Skiing Facilities,Other amusement and recreation industries,NA,0
+713900,0,713930,Marinas,Other amusement and recreation industries,NA,0
+713900,0,713940,Fitness and Recreational Sports Centers,Other amusement and recreation industries,NA,0
+713900,0,713950,Bowling Centers,Other amusement and recreation industries,NA,0
+713900,0,713990,All Other Amusement and Recreation Industries,Other amusement and recreation industries,NA,0
+721000,0,721110,Hotels (except Casino Hotels) and Motels,Accommodation,NA,0
+721000,0,721120,Casino Hotels,Accommodation,NA,0
+721000,0,721191,Bed-and-Breakfast Inns,Accommodation,NA,0
+721000,0,721199,All Other Traveler Accommodation,Accommodation,NA,0
+721000,0,721211,RV (Recreational Vehicle) Parks and Campgrounds,Accommodation,NA,0
+721000,0,721214,Recreational and Vacation Camps (except Campgrounds),Accommodation,NA,0
+721000,0,721310,Rooming and Boarding Houses,Accommodation,NA,0
+722110,0,722110,Full-Service Restaurants,Full-service restaurants,NA,0
+722211,0,722211,Limited-Service Restaurants,Limited-service restaurants,NA,0
+722211,0,722212,"Cafeterias, Grill Buffets, and Buffets",Limited-service restaurants,NA,0
+722211,0,722213,Snack and Nonalcoholic Beverage Bars,Limited-service restaurants,NA,0
+722A00,0,722310,Food Service Contractors,All other food and drinking places,NA,0
+722A00,0,722320,Caterers,All other food and drinking places,NA,0
+722A00,0,722330,Mobile Food Services,All other food and drinking places,NA,0
+722A00,0,722410,Drinking Places (Alcoholic Beverages),All other food and drinking places,NA,0
+811100,0,811111,General Automotive Repair,Automotive repair and maintenance,NA,0
+811100,0,811112,Automotive Exhaust System Repair,Automotive repair and maintenance,NA,0
+811100,0,811113,Automotive Transmission Repair,Automotive repair and maintenance,NA,0
+811100,0,811118,Other Automotive Mechanical and Electrical Repair and Maintenance,Automotive repair and maintenance,NA,0
+811100,0,811121,"Automotive Body, Paint, and Interior Repair and Maintenance",Automotive repair and maintenance,NA,0
+811100,0,811122,Automotive Glass Replacement Shops,Automotive repair and maintenance,NA,0
+811100,0,811191,Automotive Oil Change and Lubrication Shops,Automotive repair and maintenance,NA,0
+811100,0,811192,Car Washes,Automotive repair and maintenance,NA,0
+811100,0,811198,All Other Automotive Repair and Maintenance,Automotive repair and maintenance,NA,0
+811200,0,811211,Consumer Electronics Repair and Maintenance,Electronic and precision equipment repair and maintenance,NA,0
+811200,0,811212,Computer and Office Machine Repair and Maintenance,Electronic and precision equipment repair and maintenance,NA,0
+811200,0,811213,Communication Equipment Repair and Maintenance,Electronic and precision equipment repair and maintenance,NA,0
+811200,0,811219,Other Electronic and Precision Equipment Repair and Maintenance,Electronic and precision equipment repair and maintenance,NA,0
+811300,0,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Commercial and industrial machinery and equipment repair and maintenance,NA,0
+811400,0,811411,Home and Garden Equipment Repair and Maintenance,Personal and household goods repair and maintenance,NA,0
+811400,0,811412,Appliance Repair and Maintenance,Personal and household goods repair and maintenance,NA,0
+811400,0,811420,Reupholstery and Furniture Repair,Personal and household goods repair and maintenance,NA,0
+811400,0,811430,Footwear and Leather Goods Repair,Personal and household goods repair and maintenance,NA,0
+811400,0,811490,Other Personal and Household Goods Repair and Maintenance,Personal and household goods repair and maintenance,NA,0
+812100,0,812111,Barber Shops,Personal care services,NA,0
+812100,0,812112,Beauty Salons,Personal care services,NA,0
+812100,0,812113,Nail Salons,Personal care services,NA,0
+812100,0,812191,Diet and Weight Reducing Centers,Personal care services,NA,0
+812100,0,812199,Other Personal Care Services,Personal care services,NA,0
+812200,0,812210,Funeral Homes and Funeral Services,Death care services,NA,0
+812200,0,812220,Cemeteries and Crematories,Death care services,NA,0
+812300,0,812310,Coin-Operated Laundries and Drycleaners,Dry-cleaning and laundry services,NA,0
+812300,0,812320,Drycleaning and Laundry Services (except Coin-Operated),Dry-cleaning and laundry services,NA,0
+812300,0,812331,Linen Supply,Dry-cleaning and laundry services,NA,0
+812300,0,812332,Industrial Launderers,Dry-cleaning and laundry services,NA,0
+812900,0,812910,Pet Care (except Veterinary) Services,Other personal services,NA,0
+812900,0,812921,Photofinishing Laboratories (except One-Hour),Other personal services,NA,0
+812900,0,812922,One-Hour Photofinishing,Other personal services,NA,0
+812900,0,812930,Parking Lots and Garages,Other personal services,NA,0
+812900,0,812990,All Other Personal Services,Other personal services,NA,0
+813100,0,813110,Religious Organizations,Religious organizations,NA,0
+813A00,0,813211,Grantmaking Foundations,"Grantmaking, giving, and social advocacy organizations",NA,0
+813A00,0,813212,Voluntary Health Organizations,"Grantmaking, giving, and social advocacy organizations",NA,0
+813A00,0,813219,Other Grantmaking and Giving Services,"Grantmaking, giving, and social advocacy organizations",NA,0
+813A00,0,813311,Human Rights Organizations,"Grantmaking, giving, and social advocacy organizations",NA,0
+813A00,0,813312,"Environment, Conservation and Wildlife Organizations","Grantmaking, giving, and social advocacy organizations",NA,0
+813A00,0,813319,Other Social Advocacy Organizations,"Grantmaking, giving, and social advocacy organizations",NA,0
+813B00,0,813410,Civic and Social Organizations,"Civic, social, professional, and similar organizations",NA,0
+813B00,0,813910,Business Associations,"Civic, social, professional, and similar organizations",NA,0
+813B00,0,813920,Professional Organizations,"Civic, social, professional, and similar organizations",NA,0
+813B00,0,813930,Labor Unions and Similar Labor Organizations,"Civic, social, professional, and similar organizations",NA,0
+813B00,0,813940,Political Organizations,"Civic, social, professional, and similar organizations",NA,0
+813B00,0,813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)","Civic, social, professional, and similar organizations",NA,0
+814000,0,814110,Private Households,Private households,NA,0
+S00700,0,921110,Executive Offices,State and local general government,NA,0
+S00700,0,921120,Legislative Bodies,State and local general government,NA,0
+S00700,0,921130,Public Finance Activities,State and local general government,NA,0
+S00700,0,921140,"Executive and Legislative Offices, Combined",State and local general government,NA,0
+S00700,0,921150,American Indian and Alaska Native Tribal Governments,State and local general government,NA,0
+S00700,0,921190,Other General Government Support,State and local general government,NA,0
+S00700,0,922110,Courts,State and local general government,NA,0
+S00700,0,922120,Police Protection,State and local general government,NA,0
+S00700,0,922130,Legal Counsel and Prosecution,State and local general government,NA,0
+S00700,0,922140,Correctional Institutions,State and local general government,NA,0
+S00700,0,922150,Parole Offices and Probation Offices,State and local general government,NA,0
+S00700,0,922160,Fire Protection,State and local general government,NA,0
+S00700,0,922190,"Other Justice, Public Order, and Safety Activities",State and local general government,NA,0
+S00203,0,923110,Administration of Education Programs,Other state and local government enterprises,NA,0
+S00203,0,923120,Administration of Public Health Programs,Other state and local government enterprises,NA,0
+S00203,0,923130,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",Other state and local government enterprises,NA,0
+S00203,0,923140,Administration of Veterans' Affairs,Other state and local government enterprises,NA,0
+S00203,0,924110,Administration of Air and Water Resource and Solid Waste Management Programs,Other state and local government enterprises,NA,0
+S00203,0,924120,Administration of Conservation Programs,Other state and local government enterprises,NA,0
+S00203,0,925110,Administration of Housing Programs,Other state and local government enterprises,NA,0
+S00203,0,925120,Administration of Urban Planning and Community and Rural Development,Other state and local government enterprises,NA,0
+S00203,0,926110,Administration of General Economic Programs,Other state and local government enterprises,NA,0
+S00201,0,926120,Regulation and Administration of Transportation Programs,State and local government passenger transit,NA,0
+S00202,0,926130,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",State and local government electric utilities,NA,0
+S00203,0,926140,Regulation of Agricultural Marketing and Commodities,Other state and local government enterprises,NA,0
+S00203,0,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",Other state and local government enterprises,NA,0
+S00600,0,927110,Space Research and Technology,Federal general government (nondefense),NA,0
+S00500,0,928110,National Security,Federal general government (defense),NA,0
+S00600,0,928120,International Affairs,Federal general government (nondefense),NA,0

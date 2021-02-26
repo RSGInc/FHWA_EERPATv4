@@ -1,0 +1,49 @@
+#global_values.txt
+#=================
+#This file defines various global values for the model that are not defined elsewhere.
+
+# Base year
+BaseYear = "2010"
+
+# Define multiplier for cost difference to determine effect on household income
+# The multiplier adjusts for the fact that a percentage of gross household income
+# is accounted for by non-discretionary income reductions (taxes).
+CostMultiplier = c( 1.19, 1.21, 1.23, 1.25, 1.26, 1.27 )
+names( CostMultiplier ) = c( "0to20K", "20Kto40K", "40Kto60K", "60Kto80K", "80Kto100K", "100KPlus" )
+
+# Base year annual light vehicle VMT
+BaseYrVmt =  5832159190
+
+# Base year annual truck VMT
+BaseTruckVmt =  657215954
+
+# Transit vehicle mile adjustment
+# Accounts for deadheading to convert transit revenue miles to vehicle miles
+TranAdjFactor = 1.12
+
+# Truck VMT growth multiplier
+TruckVmtGrowthMultiplier = 1
+
+# Megajoules per gallon
+MjPerGallon = 121
+
+# US to metric conversion factors
+PoundToKilogram = 0.45
+
+# Factor to convert DVMT to annual VMT
+AnnVmtInflator = 365
+
+# Base cost per mile of travel
+BaseCostPerMile = 0.04
+
+# Default budget proportion
+BudgetProp = 0.1
+
+#name of census region; must be "Northeast", "South", "Midwest" or "West"
+Census_r = "Northeast"
+
+# Factor to estimate commercial service VMT from household VMT
+CommVmtFactor = 0.13
+
+# Value of Time
+ValueOfTime = 16

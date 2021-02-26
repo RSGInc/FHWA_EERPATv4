@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+EcoReduction,Logan,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054
+ImpPropGoal,Logan,0,0,0,0,0,0,0,0,0,0,0,0,0
+ImpReduction,Logan,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09
+PropWrkEco,Logan,0,0,0,0,0,0,0,0,0,0,0,0,0
+EcoReduction,SaltLakeCityWestValleyCity,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054
+ImpPropGoal,SaltLakeCityWestValleyCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ImpReduction,SaltLakeCityWestValleyCity,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09
+PropWrkEco,SaltLakeCityWestValleyCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+EcoReduction,StGeorge,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054,0.054
+ImpPropGoal,StGeorge,0,0,0,0,0,0,0,0,0,0,0,0,0
+ImpReduction,StGeorge,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09
+PropWrkEco,StGeorge,0,0,0,0,0,0,0,0,0,0,0,0,0

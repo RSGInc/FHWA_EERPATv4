@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+ArtExt,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSev,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwyExt,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySev,RapidCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtExt,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSev,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwyExt,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySev,SiouxCity,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtExt,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSev,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwyExt,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySev,SiouxFalls,0,0,0,0,0,0,0,0,0,0,0,0,0

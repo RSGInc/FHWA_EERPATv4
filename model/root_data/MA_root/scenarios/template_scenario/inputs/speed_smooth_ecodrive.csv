@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+ArtSmooth,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Boston,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Pittsfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArtSmooth,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+FwySmooth,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+LtVehEco,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0
+TruckEco,Springfield,0,0,0,0,0,0,0,0,0,0,0,0,0

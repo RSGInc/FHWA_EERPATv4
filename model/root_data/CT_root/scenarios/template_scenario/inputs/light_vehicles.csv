@@ -1,0 +1,13 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+PropSuitable,NewYorkNewark,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+TargetProp,NewYorkNewark,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Threshold,NewYorkNewark,2,2,2,2,2,2,2,2,2,2,2,2,2
+PropSuitable,NonMetro,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+TargetProp,NonMetro,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Threshold,NonMetro,2,2,2,2,2,2,2,2,2,2,2,2,2
+PropSuitable,NorwichNewLondon,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+TargetProp,NorwichNewLondon,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Threshold,NorwichNewLondon,2,2,2,2,2,2,2,2,2,2,2,2,2
+PropSuitable,Worcester,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+TargetProp,Worcester,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Threshold,Worcester,2,2,2,2,2,2,2,2,2,2,2,2,2

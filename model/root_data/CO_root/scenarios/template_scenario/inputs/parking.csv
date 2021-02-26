@@ -1,0 +1,16 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+PkgCost,DenverAurora,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,DenverAurora,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,DenverAurora,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,DenverAurora,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,DenverAurora,0,0,0,0,0,0,0,0,0,0,0,0,0
+PkgCost,GrandJunction,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,GrandJunction,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,GrandJunction,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,GrandJunction,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,GrandJunction,0,0,0,0,0,0,0,0,0,0,0,0,0
+PkgCost,Pueblo,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropCashOut,Pueblo,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropOthChrgd,Pueblo,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkChrgd,Pueblo,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropWrkPkg,Pueblo,0,0,0,0,0,0,0,0,0,0,0,0,0
