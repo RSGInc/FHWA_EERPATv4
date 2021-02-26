@@ -2,11 +2,11 @@
 #GreenSTEP_Firm_Synthesis.r
 #========================
 
-#Copyright 2009, Oregon Department of Transportation
-#Author: Jeff Keller
-#Contact: jeff.keller@rsginc.com
+#Copyright 2021, Resource Systems Group, Inc.
+#Author: Colin Smith
+#Contact: colin.smith@rsginc.com
 #Version: 4.0
-#Date: 2016-07-15
+#Date: 2021-02-26
 #This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 #This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GHU General Public License for more details.
 #You should have received a copy of this GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
@@ -114,12 +114,12 @@ local( {
     
     # Calculate average employment by CNS
     Employment.Avg <- StateFirms..Co..CNS[, .(Employees.Avg = mean(TotalEmp)), by = CNS]
-    FirmsNeeded[Employment.Avg, Employees.Avg := i.Employees.Avg, on = "CNS", nomatch = 0]
+    FirmsNeeded[Employment.Avg, Employees.Avg := i.Employees.Avg, on = "CNS"]
     
     # Calculate number of firms to be sampled
     FirmsNeeded[, N := round(pmax(1, Employees.Difference/Employees.Avg))]
     FirmsNeeded <- FirmsNeeded[!is.na(N)] #TODO: This ignores any CNS with no match in the state firms data but present in the state projection table
-    FirmsNeeded[Firm..Co..CNS, FAFZone := i.FAFZone, on = "County", nomatch = 0]
+    FirmsNeeded[Firm..Co..CNS, FAFZone := i.FAFZone, on = "County"]
     FirmsNeeded[, c("Employees.Difference","Employees.Avg","TotalEmp") := NULL]
     
     # Sample the N firms needed for each County and CNS
@@ -142,7 +142,7 @@ local( {
     NewFirms <- data.table::dcast(data = NewFirms,formula = FAFZone+County+NAICS+NAICS2+CNS~Size,fun.aggregate = sum,value.var = "Count")
     
     # Make sure that FAF zone is correct for selected Business IDs
-    NewFirms[Firm..Co..CNS, FAFZone := i.FAFZone, on = "County", nomatch = 0]
+    NewFirms[Firm..Co..CNS, FAFZone := i.FAFZone, on = "County"]
     
     # Merge new firms table with the original firms data table
     Firm..Co..NAICS <- rbind(NewFirms, Firm..Co..NAICS, use.names = TRUE, fill = TRUE)
@@ -196,7 +196,7 @@ local( {
     StateFirms..Co..CNS <- Firm..Co..CNS[!is.na(County)]
     
     # Get target employment figures from the projection employment table
-    StateFirms..Co..CNS[Employ..Co..CNS, TargetEmp := i.TargetEmp, on = c("County", "CNS"), nomatch = 0]
+    StateFirms..Co..CNS[Employ..Co..CNS, TargetEmp := i.TargetEmp, on = c("County", "CNS")]
     StateFirms..Co..CNS[, k := TargetEmp/TotalEmp]
     StateFirms..Co..CNS[, Count := e1+e2+e3+e4+e5+e6+e7+e8]
     
@@ -228,7 +228,7 @@ local( {
 
     # Drop extra variables
     Firm..Co..NAICS..Size[, NumEmp := FirmSizes[Size]]
-    Firm..Co..NAICS..Size[, c("NAICS2", "CNS", "Count", "CNSCount", "CNSFirmShare", "Size") := NULL, with = FALSE]
+    Firm..Co..NAICS..Size[, c("NAICS2", "CNS", "Count", "CNSCount", "CNSFirmShare", "Size") := NULL]
     setnames(Firm..Co..NAICS..Size, old = "AdjCount", new = "Count")
     
     # Save unenumerated list of firms

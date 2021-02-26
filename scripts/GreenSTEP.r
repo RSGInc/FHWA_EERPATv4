@@ -17,23 +17,25 @@
 
 #This is the main script for running the GreenSTEP Model. (GreenSTEP stands for GREENhouse gas Statewide Transportation Emissions Planning.) The purpose of the GreenSTEP model is to forecast statewide greenhouse gas emissions from the transportation sector in response to policy assumptions about urban growth patterns, public transit and freeway supply, demand management, vehicle replacement, fuel costs and the carbon content of fuels. To date, the model only addresses emissions from surface passenger transportation and trucks. It does not address rail freight transportation, ship or barge transportation, or air transportation. This script sets up run parameters and calls the five modules which implement various portions of the GreenSTEP model. These modules include:
 
-#1) The "GreenSTEP_Hh_Synthesis.r" module generates synthetic households for each county and year from population forecasts of persons by age group. The synthetic households have characteristics of numbers of persons by each of six age groups and household income. These are saved as RData files to the model directory. This module is run only if it has not been run before because the same populations should be used for all scenarios to reduce stochastic effects on the results.
+#1) The GreenSTEP_Hh_Synthesis.r module generates synthetic households for each county and year from population forecasts of persons by age group. The synthetic households have characteristics of numbers of persons by each of six age groups and household income. These are saved as RData files to the model directory. This module is run only if it has not been run before because the same populations should be used for all scenarios to reduce stochastic effects on the results.
 
-#2) The GreenSTEP_Inputs.r module loads all of the model objects and data needed to run the GreenSTEP model.
+#2) The GreenSTEP_Firm_Synthesis.r model generates synthetic firms for each county and year from employment forecasts by industry
 
-#3) The GreenSTEP_Pop_Road.r module produces POPULATION AND LANE-MILE TABULATIONS FOR ALL YEARS
+#3) The GreenSTEP_Inputs.r module loads all of the model objects and data needed to run the GreenSTEP model.
 
-#4) The GreenSTEP_Sim.r module performs all of the household microsimulation calculations for determining household income, vehicle ownership, household travel and vehicle characteristics and use. The results are aggregated to arrays by county, income and development type and saved to disk.
+#4) The GreenSTEP_Pop_Road.r module produces POPULATION AND LANE-MILE TABULATIONS FOR ALL YEARS
 
-#5) The GreenSTEP_Sim_Outputs.r module computes summary output tables from the household simulation results. These tables are used by the GreenSTEP_Emissions.r module.
+#5) The GreenStep_Freight.r module performs all calculations for matching buyer-seller firms, allocating freight flows, and simulating mode and vehicle choices for generating medium and heavy truck movements
 
-#6) GreenSTEP_Outputs_Export.r exports all of the outputs produced by GreenSTEP_Sim_Outputs.r to .csv files
+#6) The GreenSTEP_Sim.r module performs all of the household microsimulation calculations for determining household income, vehicle ownership, household travel and vehicle characteristics and use. The results are aggregated to arrays by county, income and development type and saved to disk.
 
-#7) GreenSTEP_Outputs_HTMLSummary.r writes out a summary report to an HTML file with some top level summary tabulations for each forecast year
+#7) The GreenSTEP_Sim_Outputs.r module computes summary output tables from the household simulation results. These tables are used by the GreenSTEP_Emissions.r module.
 
-#8) GreenSTEP_Validation.r produces a county level summary of VMT and vehicle fleet and compares it with observed data
+#8) GreenSTEP_Outputs_Export.r exports all of the outputs produced by GreenSTEP_Sim_Outputs.r to .csv files
 
-#9) GreenSTEP_Time_Series_Outputs.r produces a summary of model results across all model years executed for the scenario
+#9) GreenSTEP_Validation.r produces a county level summary of VMT and vehicle fleet and compares it with observed data
+
+#10) GreenSTEP_Time_Series_Outputs.r produces a summary of model results across all model years executed for the scenario
 
 #Revisions since version 1.1 -----------------------------------------------------
 #=================================================================================
@@ -67,8 +69,6 @@ loadPackage <- function (package) {
 #=================================================================================
 #abind is used in _Inputs
 loadPackage("abind")
-#R2HTL is used in _HTMLSummary
-loadPackage("R2HTML")
 #packages used in Outputs_ChartingTools
 loadPackage("ggplot2")
 loadPackage("reshape")
@@ -90,7 +90,8 @@ loadPackage("rgeos")
 #=================================================================================
 
   stateFile <- file("state.txt", "r")
-  state <- readLines(stateFile, -1, warn = FALSE)
+  modeldir <- readLines(stateFile, -1, warn = FALSE)
+  state <- substr(modeldir,1,2)
   close(stateFile)
   # Make a list to store the directory references
 	Dir_ <- list()
@@ -133,7 +134,7 @@ loadPackage("rgeos")
 	}
 
 	# Directories containing model objects and run scripts are common for all scenarios
-	Dir_$ModelDir <- paste("../../model/states/",state,sep = "")
+	Dir_$ModelDir <- paste("../../model/states/",modeldir,sep = "")
 	Dir_$ScriptDir <- "../../scripts"
 	attach( Dir_ )
 
@@ -150,8 +151,6 @@ loadPackage("rgeos")
      
 GreenSTEP_ <- list()
 source( paste( ScriptDir, "/GreenSTEP_Models.r", sep="" ) )
-         
-     
 
 #Run the GreenSTEP_Inputs.r script -----------------------------------------------
 #=================================================================================
@@ -192,7 +191,6 @@ bucketRound <- function (x, threshold = 0.5)
 	     source( paste( ScriptDir, "/GreenSTEP_Hh_Synthesis.r", sep="" ) )
 	}
 	rm( HsldFiles. )
-	
 
 #Run the GreenSTEP_Firm_Synthesis.r script if necessary --------------------------
 #=================================================================================
@@ -204,8 +202,7 @@ bucketRound <- function (x, threshold = 0.5)
 	  source( paste( ScriptDir, "/GreenSTEP_Firm_Synthesis.r", sep="" ) )
 	}
 	rm( FirmFiles. )
-	
-
+  	
 #Run the GreenSTEP_Pop_Road.r ----------------------------------------------------
 #=================================================================================
 
@@ -216,7 +213,7 @@ bucketRound <- function (x, threshold = 0.5)
 
 #Iterate through the forecast years for the simulation and output production for each year ----
 #==============================================================================================
-
+  
 for( yr in RunYears ) {
 
   #=================================
@@ -275,5 +272,5 @@ for( yr in RunYears ) {
   gc()
   
 }
-
+  	
 source( paste( ScriptDir, "/GreenSTEP_Time_Series_Outputs.r", sep="" ) )

@@ -1,14 +1,16 @@
+#========================
 #GreenSTEP_Outputs_Export.r
-#=======================
+#========================
 
-#Copyright 2012, Resource Systems Group, Inc.
+#Copyright 2021, Resource Systems Group, Inc.
 #Author: Colin Smith
-#Contact: colin.smith@rsginc.om
-#Version: 0.1
-#Date: 10/23/12
+#Contact: colin.smith@rsginc.com
+#Version: 4.0
+#Date: 2021-02-26
 #This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 #This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GHU General Public License for more details.
 #You should have received a copy of this GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
+
 
 #Description
 #===========
