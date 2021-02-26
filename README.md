@@ -13,5 +13,5 @@ This veriosn, EERPAT v4, includes a new freight model component
 
 ## Running EERPATv4
 
-1. Open the script "Run_EERPATv4.R in the R GUI or another R IDE such as RStudio
+1. Open the script "Run_EERPATv4.R" (located in the root directory of the model in R GUI or another R IDE such as RStudio
 2. Follow the instructions in the scrpt to select a scenario to run and launch the model run
