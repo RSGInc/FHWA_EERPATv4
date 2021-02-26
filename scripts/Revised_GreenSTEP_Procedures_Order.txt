@@ -1,0 +1,45 @@
+REVISED GREENSTEP ORDER OF PROCEDURES
+
+Tabulate population by county and year
+Calculate freeway and arterial expansion costs by year
+
+Attribute household characteristics
+	By County
+		Add income, land use, and driver info to households
+		Calculate additions to freeway, arterial and transit systems
+		Add freeway, arterial and transit info to households
+
+Attribute traveler and vehicle characteristics & calculate initial DVMT
+	By County	                                                                          
+		Add TDM, ecodriver, etc. designations to households
+		Predict household vehicle ownership and adjust for carsharing
+		1st DVMT calculation
+		Make TDM adjustments to DVMT
+		Calculate 95th percentile and maximum DVMT
+		Determine vehicle types, ages and DVMT
+		Determine HEVs & PHEVs and optimize DVMT among vehicles
+
+Loop to equilibrate DVMT, congestion, costs
+	By County
+		Calculate fuel and electricity consumption and CO2e production
+		Calculate household travel costs and revenues
+			Keep running totals of DVMT, costs and revenues
+			Recalculate DVMT based on costs
+	Statewide from summary matrices
+		Calculate commercial service vehicle travel
+		Calculate congestion, efficiency adjustments, & congestion cost
+		Calculate commercial service vehicle fuel consumption
+		Calculate commercial service vehicle emissions and cost
+		Calculate total costs and the VMT surcharge to pay for infrastructure
+	By County
+		Adjust vehicle efficiency
+		Identify EV (next to last iteration only)
+		Calculate fuel and electricity consumption and CO2e production (last iteration)
+		Calculate household travel costs (last iteration)
+		Calculate household travel in short tours (last iteration as performance measure)
+		
+Statewide
+	Calculate heavy vehicle consumption and emissions
+	
+	
+	
