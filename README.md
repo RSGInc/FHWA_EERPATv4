@@ -7,4 +7,3 @@ This veriosn, EERPAT v4, includes a new freight model component
 
 ## Installation Instructions
 
-## Documentation and User Guide
