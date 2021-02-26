@@ -1,0 +1,15 @@
+Value,Area,1990,1995,2000,2005,2010,2015,2020,2025,2030,2035,2040,2045,2050
+PctElectric,BaltimoreColumbiaTowson,25,25,25,25,25,25,25,25,25,25,25,25,25
+RevMiCapGrowth,BaltimoreColumbiaTowson,1,1,1,1,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+PctElectric,CaliforniaLexington,0,0,0,0,0,0,0,0,0,0,0,0,0
+RevMiCapGrowth,CaliforniaLexington,1,1,1,1,0,0,0,0,0,0,0,0,0
+PctElectric,Cumberland,0,0,0,0,0,0,0,0,0,0,0,0,0
+RevMiCapGrowth,Cumberland,1,1,1,1,0,0,0,0,0,0,0,0,0
+PctElectric,Hagerstown,0,0,0,0,0,0,0,0,0,0,0,0,0
+RevMiCapGrowth,Hagerstown,1,1,1,1,0,0,0,0,0,0,0,0,0
+PctElectric,PhiladelphiaCamdenWilmington,0,0,0,0,0,0,0,0,0,0,0,0,0
+RevMiCapGrowth,PhiladelphiaCamdenWilmington,1,1,1,1,0,0,0,0,0,0,0,0,0
+PctElectric,Salisbury,0,0,0,0,0,0,0,0,0,0,0,0,0
+RevMiCapGrowth,Salisbury,1,1,1,1,0,0,0,0,0,0,0,0,0
+PctElectric,WashingtonArlingtonAlexandria,0,0,0,0,0,0,0,0,0,0,0,0,0
+RevMiCapGrowth,WashingtonArlingtonAlexandria,1,1,1,1,0,0,0,0,0,0,0,0,0

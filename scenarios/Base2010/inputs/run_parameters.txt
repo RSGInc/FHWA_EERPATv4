@@ -1,0 +1,16 @@
+
+        # GreenSTEP Run Parameters
+        # This file identifies several run parameters that need to be defined for a scenario
+
+        # Identify the base year
+        BaseYear = "2010"
+
+        # Identify whether this is the base scenario
+        IsBaseScenario = TRUE
+
+        # Identify the name of the base scenario
+        BaseScenName = "Base2010"
+
+        # Identify the forecast years to be modeled
+        RunYears = c("2010","2030","2050")
+
