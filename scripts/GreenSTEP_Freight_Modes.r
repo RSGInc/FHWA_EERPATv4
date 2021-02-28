@@ -142,7 +142,7 @@ FreightFlows[hwydist_county2county[, .(FIPS.Seller = FIPS.Origin, FIPS.Buyer = F
 #########################################################################################
 # Calculate average distance for the portion of interstate trips that are inside the state
 
-USCountyShape <- readOGR(ModelDir, "tl_2015_us_county")
+USCountyShape <- readOGR(ModelDir, "tl_2015_us_county_pts")
 USStateShape  <- readOGR(ModelDir, "tl_2015_us_state")
 
 #Isolate the simulated state
@@ -161,12 +161,6 @@ AdjacentStates        <- OtherStateShape[OtherStateShape$Test == "TRUE",]
 # TODO: This projection (epsg 2248) was manually searched and found. To make this generic for all states, the code needs revision.
 CountyShape    <- spTransform(CountyShape,CRS("+init=epsg:2248"))
 AdjacentStates <- spTransform(AdjacentStates,CRS("+init=epsg:2248"))
-
-#create a points layer from the counties
-CountyShape <- SpatialPointsDataFrame(coordinates(CountyShape),
-                                      data.frame(CountyShape),
-                                      bbox=bbox(CountyShape),
-                                      proj4string=CRS(proj4string(CountyShape)))
 
 # Calculate closest distance from county centroid to states boundary
 # TODO: This calculates nearest distance to all surrounding states boundary
