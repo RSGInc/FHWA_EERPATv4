@@ -7,7 +7,7 @@ This version, ```EERPAT v4```, of the model includes a disaggregate freight mode
 
 ## Installation Instructions
 
-1. Either download the zipped release (https://github.com/RSGInc/FHWA_EERPATv4/releases/tag/v4.0.0) or use GitHub to create a local clone of the repository on your computer.
+1. Either download the zipped release (https://github.com/RSGInc/FHWA_EERPATv4/releases/tag/v4.0) or use GitHub to create a local clone of the repository on your computer.
 2. If you downloaded the zipped release, unzip to a folder on the hard drive of your computer
 3. Install the version of ```R``` that has been tested with this model, which is currently ```R 4.0.4``` on Windows, from the CRAN R Project website at https://cran.r-project.org/bin/windows/base/R-4.0.4-win.exe.
 
