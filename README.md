@@ -14,4 +14,4 @@ This version, ```EERPAT v4```, of the model includes a disaggregate freight mode
 ## Running EERPATv4
 
 1. Open the script ```Run_EERPATv4.R``` (located in the root directory of the model in ```R GUI``` or another R IDE such as ```RStudio```,
-2. Follow the instructions in the scrpt to select a scenario to run and launch the model run
+2. Follow the instructions in the script to select a scenario to run and launch the model run
